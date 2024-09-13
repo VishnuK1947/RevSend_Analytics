@@ -1,0 +1,1001 @@
+customer_id,industry,company_size,total_spend,gift_frequency,average_gift_value,customer_satisfaction,preferred_gift_type
+1,Insurance,Enterprise,5033.54,38,52.08,4.57,"Physical Gifts, Gift Cards, Custom Gifts"
+2,Finance,Small,10262.89,10,37.04,4.08,"Gift Cards, Physical Gifts, Custom Gifts"
+3,Tech,Medium,12519.32,32,47.34,4.08,"Custom Gifts, Physical Gifts, Experiences"
+4,Finance,Small,366330.57,10,109.9,4.42,"Custom Gifts, Physical Gifts"
+5,Healthcare,Small,48473.67,35,54.32,5.0,"Physical Gifts, Experiences, Custom Gifts"
+6,Insurance,Medium,49483.45,51,55.13,4.55,"Gift Cards, Experiences"
+7,Tech,Medium,23181.73,1,73.25,4.78,"Experiences, Physical Gifts"
+8,Manufacturing,Medium,65933.99,40,32.23,4.04,"Custom Gifts, Experiences, Gift Cards"
+9,Retail,Enterprise,25024.61,35,86.35,5.0,"Physical Gifts, Gift Cards, Experiences"
+10,Energy,Enterprise,226238.16,3,195.52,4.46,"Physical Gifts, Gift Cards, Experiences"
+11,Finance,Medium,13328.83,48,99.09,5.0,"Custom Gifts, Experiences"
+12,Finance,Large,28760.19,10,33.21,5.0,"Custom Gifts, Experiences, Physical Gifts"
+13,Real Estate,Enterprise,14550.88,39,48.92,3.89,"Custom Gifts, Gift Cards"
+14,Retail,Large,40986.17,19,56.32,4.57,Physical Gifts
+15,Manufacturing,Medium,4615.51,15,117.08,4.58,Custom Gifts
+16,Healthcare,Enterprise,18514.81,29,74.37,4.03,Experiences
+17,Education,Enterprise,2719.1,10,52.28,3.62,Custom Gifts
+18,Hospitality,Enterprise,109793.15,12,67.27,3.44,Gift Cards
+19,Real Estate,Large,20340.49,51,115.29,3.74,Custom Gifts
+20,Energy,Medium,11049.63,1,54.63,3.6,"Physical Gifts, Custom Gifts"
+21,Education,Enterprise,24352.28,9,72.19,4.13,"Physical Gifts, Experiences, Custom Gifts"
+22,Hospitality,Enterprise,104527.57,50,109.3,4.77,Custom Gifts
+23,Education,Large,5521.86,36,39.05,5.0,"Experiences, Physical Gifts, Gift Cards"
+24,Insurance,Large,15434.29,26,28.0,3.67,Gift Cards
+25,Retail,Large,17330.24,25,20.65,4.45,Experiences
+26,Finance,Large,6017.68,22,42.97,4.42,Physical Gifts
+27,Manufacturing,Enterprise,7135.52,45,34.72,3.93,"Experiences, Custom Gifts"
+28,Education,Small,6780.15,7,32.43,3.65,"Physical Gifts, Gift Cards"
+29,Insurance,Small,20817.3,13,50.27,3.96,"Gift Cards, Physical Gifts"
+30,Healthcare,Small,27784.93,27,38.58,4.8,"Experiences, Physical Gifts"
+31,Energy,Small,7642.32,19,108.0,4.32,"Gift Cards, Physical Gifts"
+32,Hospitality,Enterprise,28995.31,42,64.3,4.03,"Gift Cards, Physical Gifts"
+33,Tech,Small,23471.99,32,72.46,5.0,"Gift Cards, Physical Gifts, Experiences"
+34,Energy,Large,27267.66,33,30.47,5.0,"Experiences, Physical Gifts, Gift Cards"
+35,Energy,Small,31468.23,46,42.77,5.0,Custom Gifts
+36,Finance,Large,23876.96,5,146.87,3.71,Custom Gifts
+37,Hospitality,Small,1923.23,9,63.12,3.84,Custom Gifts
+38,Tech,Large,27740.23,32,149.67,4.93,"Gift Cards, Experiences"
+39,Education,Medium,22385.2,24,22.41,4.32,"Gift Cards, Physical Gifts, Custom Gifts"
+40,Manufacturing,Small,132945.53,36,43.35,4.2,"Experiences, Gift Cards, Custom Gifts"
+41,Hospitality,Medium,157329.55,34,24.05,5.0,"Custom Gifts, Gift Cards, Physical Gifts"
+42,Hospitality,Enterprise,4914.25,22,30.56,4.02,"Custom Gifts, Physical Gifts"
+43,Healthcare,Enterprise,24156.83,34,75.96,4.16,Gift Cards
+44,Finance,Enterprise,67015.01,40,52.3,5.0,Custom Gifts
+45,Finance,Small,55633.24,27,64.83,4.93,"Gift Cards, Experiences"
+46,Finance,Enterprise,33796.15,28,54.1,4.72,"Custom Gifts, Experiences, Gift Cards"
+47,Insurance,Small,11358.42,35,46.58,4.47,Experiences
+48,Manufacturing,Small,86941.31,49,48.19,5.0,"Gift Cards, Physical Gifts"
+49,Real Estate,Enterprise,15795.28,31,50.09,3.89,"Custom Gifts, Gift Cards"
+50,Finance,Medium,56168.84,13,93.49,3.53,"Gift Cards, Experiences, Physical Gifts"
+51,Tech,Medium,49563.56,24,137.57,3.43,"Gift Cards, Physical Gifts"
+52,Finance,Enterprise,430196.9,41,56.62,3.95,Physical Gifts
+53,Manufacturing,Medium,19337.45,33,109.14,3.88,"Physical Gifts, Custom Gifts"
+54,Tech,Medium,13827.22,20,75.21,4.27,Gift Cards
+55,Insurance,Medium,61067.9,10,81.56,4.1,Experiences
+56,Hospitality,Small,28242.5,7,35.28,3.95,"Custom Gifts, Gift Cards, Experiences"
+57,Retail,Medium,12601.77,1,33.59,4.47,"Custom Gifts, Physical Gifts, Gift Cards"
+58,Tech,Small,56774.62,9,132.81,4.03,Physical Gifts
+59,Hospitality,Small,28683.57,17,15.91,4.45,"Experiences, Gift Cards"
+60,Manufacturing,Medium,53817.57,44,66.53,3.93,"Gift Cards, Custom Gifts"
+61,Real Estate,Medium,10101.29,29,67.67,3.65,"Gift Cards, Experiences"
+62,Retail,Small,15500.91,2,88.4,4.31,"Experiences, Physical Gifts, Gift Cards"
+63,Finance,Large,70634.86,38,68.48,4.91,Gift Cards
+64,Tech,Small,28695.97,10,122.68,4.4,"Custom Gifts, Experiences, Physical Gifts"
+65,Healthcare,Enterprise,31569.31,22,37.09,4.09,"Physical Gifts, Experiences"
+66,Hospitality,Enterprise,34865.25,51,75.54,3.91,"Gift Cards, Experiences"
+67,Education,Enterprise,314452.83,8,39.9,5.0,"Physical Gifts, Custom Gifts"
+68,Education,Large,26940.44,17,43.32,5.0,"Gift Cards, Physical Gifts, Experiences"
+69,Manufacturing,Enterprise,11010.98,44,69.62,5.0,"Custom Gifts, Experiences, Gift Cards"
+70,Healthcare,Enterprise,30400.78,49,97.55,4.38,"Gift Cards, Physical Gifts, Experiences"
+71,Manufacturing,Enterprise,12553.59,35,41.43,4.73,"Custom Gifts, Physical Gifts, Gift Cards"
+72,Tech,Enterprise,103368.8,27,50.79,4.2,"Custom Gifts, Gift Cards"
+73,Healthcare,Enterprise,13134.33,42,23.91,4.22,Experiences
+74,Real Estate,Large,22655.18,41,90.13,4.28,Experiences
+75,Real Estate,Large,4493.85,3,34.7,4.58,"Physical Gifts, Gift Cards"
+76,Manufacturing,Small,38666.39,20,50.56,3.18,Gift Cards
+77,Tech,Small,52052.96,2,76.14,3.74,"Physical Gifts, Gift Cards, Custom Gifts"
+78,Real Estate,Medium,65497.6,24,45.05,4.21,"Custom Gifts, Experiences, Gift Cards"
+79,Hospitality,Enterprise,45150.28,27,54.98,4.09,"Experiences, Gift Cards"
+80,Retail,Enterprise,4931.92,31,41.87,4.55,"Gift Cards, Experiences"
+81,Tech,Enterprise,38791.07,17,70.52,3.77,"Gift Cards, Experiences, Physical Gifts"
+82,Hospitality,Large,5054.22,33,15.31,4.98,"Experiences, Custom Gifts, Physical Gifts"
+83,Real Estate,Medium,8048.79,46,63.04,5.0,"Experiences, Physical Gifts"
+84,Insurance,Enterprise,173889.92,36,70.36,4.65,Physical Gifts
+85,Finance,Small,12431.78,44,40.94,5.0,Gift Cards
+86,Healthcare,Enterprise,24554.24,50,33.15,5.0,"Custom Gifts, Experiences, Gift Cards"
+87,Hospitality,Enterprise,30603.43,49,37.21,4.12,"Custom Gifts, Gift Cards"
+88,Energy,Medium,32380.6,47,42.73,5.0,"Custom Gifts, Experiences"
+89,Real Estate,Enterprise,13994.93,10,84.04,3.5,"Physical Gifts, Gift Cards"
+90,Healthcare,Small,41344.19,21,56.66,3.9,"Gift Cards, Experiences, Physical Gifts"
+91,Energy,Large,25589.84,11,40.77,4.23,"Custom Gifts, Experiences"
+92,Manufacturing,Medium,8367.03,24,54.8,4.3,Custom Gifts
+93,Retail,Enterprise,20485.29,41,81.59,4.79,Experiences
+94,Real Estate,Medium,17335.4,3,45.7,3.44,Physical Gifts
+95,Healthcare,Large,369041.23,30,144.12,5.0,"Physical Gifts, Custom Gifts"
+96,Manufacturing,Enterprise,37033.32,37,45.13,4.34,"Custom Gifts, Gift Cards, Experiences"
+97,Healthcare,Large,17444.1,33,24.42,4.16,"Physical Gifts, Experiences"
+98,Real Estate,Enterprise,30283.17,8,42.71,3.72,"Experiences, Custom Gifts"
+99,Insurance,Large,58384.53,21,51.94,4.09,"Physical Gifts, Custom Gifts, Gift Cards"
+100,Manufacturing,Small,84411.03,18,82.09,4.54,Experiences
+101,Tech,Enterprise,21061.35,38,71.66,3.56,"Custom Gifts, Gift Cards, Physical Gifts"
+102,Education,Medium,3771.52,19,80.81,4.69,"Custom Gifts, Gift Cards, Experiences"
+103,Manufacturing,Small,42130.17,36,29.13,4.17,"Custom Gifts, Experiences, Physical Gifts"
+104,Finance,Large,9346.74,6,11.43,3.73,"Custom Gifts, Experiences"
+105,Education,Large,11026.25,8,50.17,3.72,"Gift Cards, Physical Gifts, Custom Gifts"
+106,Retail,Medium,142700.91,46,38.62,4.7,Experiences
+107,Hospitality,Small,32475.35,8,34.96,4.36,"Gift Cards, Experiences"
+108,Education,Medium,41501.08,4,86.12,3.96,"Experiences, Gift Cards"
+109,Real Estate,Enterprise,47914.54,15,42.02,3.59,"Custom Gifts, Experiences"
+110,Healthcare,Small,34786.98,31,43.89,4.75,Custom Gifts
+111,Tech,Medium,36350.61,12,51.97,2.64,"Experiences, Gift Cards, Custom Gifts"
+112,Energy,Large,11220.24,43,28.54,4.4,"Physical Gifts, Experiences"
+113,Energy,Small,3912.41,4,26.81,3.97,Custom Gifts
+114,Retail,Large,42851.39,25,48.4,3.26,Custom Gifts
+115,Education,Small,13796.53,42,49.41,4.62,"Gift Cards, Custom Gifts, Experiences"
+116,Education,Enterprise,64727.0,26,61.54,4.11,"Experiences, Gift Cards"
+117,Energy,Small,2207.82,45,288.82,5.0,Custom Gifts
+118,Finance,Medium,26082.32,25,71.45,4.17,"Gift Cards, Physical Gifts, Custom Gifts"
+119,Real Estate,Small,13648.83,13,103.28,3.52,"Physical Gifts, Gift Cards"
+120,Healthcare,Enterprise,232394.33,9,42.1,4.34,Custom Gifts
+121,Tech,Medium,21387.78,13,100.0,4.18,Experiences
+122,Finance,Large,59472.8,16,81.67,3.7,"Custom Gifts, Experiences, Gift Cards"
+123,Tech,Small,10354.72,1,60.31,3.49,"Gift Cards, Physical Gifts"
+124,Education,Medium,28253.0,50,36.7,4.11,"Experiences, Custom Gifts, Gift Cards"
+125,Hospitality,Medium,23359.91,17,33.47,2.87,Custom Gifts
+126,Hospitality,Medium,4841.54,10,90.08,4.0,Custom Gifts
+127,Hospitality,Enterprise,26392.51,44,55.37,5.0,"Custom Gifts, Physical Gifts, Gift Cards"
+128,Manufacturing,Small,9422.97,34,107.77,3.76,"Gift Cards, Experiences"
+129,Manufacturing,Large,106221.34,18,22.15,4.09,"Experiences, Custom Gifts"
+130,Healthcare,Enterprise,29093.64,9,92.2,3.75,Custom Gifts
+131,Energy,Medium,1158.22,12,35.25,3.22,"Physical Gifts, Experiences, Custom Gifts"
+132,Manufacturing,Small,41220.03,5,40.01,4.16,Experiences
+133,Healthcare,Large,9793.62,32,42.79,4.34,"Physical Gifts, Experiences, Gift Cards"
+134,Hospitality,Medium,32788.84,40,51.83,4.44,"Custom Gifts, Gift Cards, Experiences"
+135,Real Estate,Large,4034.34,26,53.95,3.89,"Physical Gifts, Gift Cards, Experiences"
+136,Energy,Large,3385.1,19,28.86,3.61,"Gift Cards, Custom Gifts, Experiences"
+137,Finance,Medium,24280.58,37,38.89,5.0,"Physical Gifts, Custom Gifts"
+138,Retail,Medium,8241.07,2,74.6,3.98,Custom Gifts
+139,Hospitality,Medium,2969.34,33,78.0,5.0,"Physical Gifts, Experiences, Custom Gifts"
+140,Finance,Large,28762.57,2,82.2,4.0,Physical Gifts
+141,Insurance,Enterprise,73046.24,29,80.27,4.61,"Gift Cards, Experiences, Physical Gifts"
+142,Healthcare,Medium,11055.07,48,92.44,4.34,"Gift Cards, Physical Gifts, Custom Gifts"
+143,Tech,Enterprise,8665.34,25,59.53,4.31,"Experiences, Custom Gifts"
+144,Tech,Large,41089.43,38,37.11,4.99,Experiences
+145,Insurance,Enterprise,10221.11,13,53.46,4.33,"Physical Gifts, Gift Cards"
+146,Tech,Medium,26715.51,45,58.15,3.57,"Custom Gifts, Experiences, Gift Cards"
+147,Retail,Medium,11330.83,13,83.33,4.68,Custom Gifts
+148,Finance,Large,61336.0,14,103.42,4.12,Physical Gifts
+149,Healthcare,Medium,12390.18,47,91.84,4.55,"Experiences, Physical Gifts"
+150,Real Estate,Large,10607.3,32,94.46,3.76,Physical Gifts
+151,Insurance,Small,144664.89,20,38.16,4.81,Gift Cards
+152,Retail,Small,7172.89,44,35.49,3.63,Gift Cards
+153,Tech,Enterprise,13294.95,29,43.43,3.68,Custom Gifts
+154,Healthcare,Enterprise,33613.41,27,39.97,3.86,"Custom Gifts, Physical Gifts, Experiences"
+155,Healthcare,Enterprise,6176.09,26,43.3,4.44,Physical Gifts
+156,Insurance,Enterprise,111436.09,23,48.9,3.44,"Custom Gifts, Experiences, Gift Cards"
+157,Energy,Small,57583.8,8,73.97,3.93,"Physical Gifts, Gift Cards, Custom Gifts"
+158,Tech,Large,26740.82,39,93.48,4.06,"Custom Gifts, Gift Cards"
+159,Education,Enterprise,30186.03,5,40.21,5.0,"Gift Cards, Experiences, Physical Gifts"
+160,Tech,Medium,82283.61,21,92.78,5.0,"Physical Gifts, Custom Gifts, Experiences"
+161,Finance,Large,8399.35,11,30.79,4.74,Custom Gifts
+162,Healthcare,Medium,11977.55,17,79.19,3.59,"Gift Cards, Custom Gifts, Physical Gifts"
+163,Insurance,Small,44963.98,8,62.95,3.79,"Gift Cards, Custom Gifts"
+164,Manufacturing,Small,5483.26,30,34.65,5.0,"Custom Gifts, Experiences, Physical Gifts"
+165,Insurance,Large,12861.74,10,29.51,3.19,"Experiences, Gift Cards"
+166,Real Estate,Large,28026.0,36,22.81,4.66,Gift Cards
+167,Healthcare,Large,7990.52,2,77.04,3.51,"Experiences, Gift Cards"
+168,Retail,Large,61411.31,47,53.26,3.33,"Custom Gifts, Physical Gifts"
+169,Healthcare,Large,61805.96,48,45.54,4.65,"Experiences, Physical Gifts, Custom Gifts"
+170,Hospitality,Small,27858.04,47,76.69,4.19,"Experiences, Custom Gifts"
+171,Energy,Small,76903.43,24,107.21,3.91,"Experiences, Physical Gifts"
+172,Real Estate,Large,20496.13,8,57.56,4.16,"Custom Gifts, Gift Cards, Physical Gifts"
+173,Hospitality,Medium,30533.4,35,57.88,4.06,"Experiences, Physical Gifts, Custom Gifts"
+174,Tech,Large,43819.43,15,145.15,4.87,"Experiences, Physical Gifts"
+175,Healthcare,Small,56875.0,36,75.03,4.62,"Physical Gifts, Custom Gifts, Gift Cards"
+176,Retail,Small,13364.9,47,98.79,4.41,Physical Gifts
+177,Hospitality,Small,75033.87,36,101.54,4.13,"Custom Gifts, Gift Cards"
+178,Education,Small,9233.04,40,24.41,4.33,"Custom Gifts, Physical Gifts, Gift Cards"
+179,Insurance,Medium,24336.74,30,26.66,4.3,"Physical Gifts, Gift Cards, Experiences"
+180,Finance,Medium,23214.88,37,32.37,5.0,"Custom Gifts, Physical Gifts, Experiences"
+181,Real Estate,Enterprise,63120.35,19,16.86,4.58,"Experiences, Custom Gifts"
+182,Insurance,Enterprise,32046.61,12,73.95,3.93,Gift Cards
+183,Insurance,Large,14105.05,27,48.72,4.17,Physical Gifts
+184,Retail,Enterprise,29129.57,48,35.56,4.77,"Experiences, Gift Cards, Physical Gifts"
+185,Real Estate,Medium,5929.82,20,66.49,3.84,"Gift Cards, Physical Gifts"
+186,Energy,Enterprise,75133.8,10,23.73,4.23,Custom Gifts
+187,Manufacturing,Small,22256.83,37,27.59,4.36,"Custom Gifts, Physical Gifts, Experiences"
+188,Manufacturing,Medium,52107.75,37,70.27,3.98,"Experiences, Physical Gifts, Custom Gifts"
+189,Hospitality,Medium,23373.74,48,40.27,4.0,Experiences
+190,Real Estate,Medium,10019.53,43,54.83,4.08,Physical Gifts
+191,Education,Small,12036.27,28,6.43,4.75,Physical Gifts
+192,Manufacturing,Enterprise,29569.17,50,24.46,5.0,"Custom Gifts, Physical Gifts, Experiences"
+193,Tech,Small,14907.73,43,117.54,3.77,"Gift Cards, Experiences, Physical Gifts"
+194,Healthcare,Medium,59970.33,7,128.15,3.42,"Custom Gifts, Gift Cards"
+195,Tech,Medium,19199.0,15,79.19,3.2,"Experiences, Physical Gifts, Custom Gifts"
+196,Manufacturing,Medium,46518.38,31,50.12,4.69,"Custom Gifts, Physical Gifts"
+197,Manufacturing,Small,33179.29,37,30.94,4.29,Experiences
+198,Energy,Medium,31501.15,23,63.26,4.56,Gift Cards
+199,Retail,Small,38182.33,13,62.56,4.42,Custom Gifts
+200,Manufacturing,Small,19617.6,21,57.96,4.6,"Physical Gifts, Custom Gifts"
+201,Energy,Enterprise,12932.71,26,83.21,4.4,"Gift Cards, Physical Gifts"
+202,Energy,Enterprise,24924.28,1,66.73,4.24,"Custom Gifts, Experiences, Physical Gifts"
+203,Energy,Large,14247.21,38,72.53,4.97,Experiences
+204,Insurance,Enterprise,144813.81,7,22.27,3.68,"Experiences, Physical Gifts"
+205,Healthcare,Medium,15695.34,13,35.56,3.5,"Custom Gifts, Physical Gifts"
+206,Finance,Large,12435.78,16,41.85,3.12,"Physical Gifts, Custom Gifts"
+207,Insurance,Large,89527.1,3,129.74,3.64,"Gift Cards, Physical Gifts, Experiences"
+208,Education,Medium,98071.42,33,40.68,4.67,Gift Cards
+209,Healthcare,Large,2213.86,7,64.94,3.6,Gift Cards
+210,Finance,Enterprise,347812.9,14,38.78,3.13,Physical Gifts
+211,Retail,Small,14369.12,14,39.36,3.68,Physical Gifts
+212,Hospitality,Large,97614.53,14,66.34,3.3,Physical Gifts
+213,Energy,Large,5891.32,10,42.2,4.1,Custom Gifts
+214,Tech,Enterprise,140216.03,50,82.29,4.5,"Physical Gifts, Experiences, Gift Cards"
+215,Energy,Small,5041.99,50,29.17,4.23,Physical Gifts
+216,Finance,Small,56545.6,36,64.21,4.89,"Gift Cards, Physical Gifts, Experiences"
+217,Real Estate,Small,12205.27,17,43.7,4.37,Experiences
+218,Healthcare,Medium,18934.54,49,34.23,4.16,"Gift Cards, Experiences"
+219,Manufacturing,Large,11865.55,28,55.24,5.0,Experiences
+220,Education,Small,37385.91,27,124.77,3.66,"Physical Gifts, Gift Cards"
+221,Finance,Small,31979.98,44,53.86,5.0,"Physical Gifts, Custom Gifts"
+222,Real Estate,Small,11223.64,12,41.45,4.5,"Custom Gifts, Physical Gifts, Gift Cards"
+223,Education,Large,32029.29,50,52.82,4.28,Custom Gifts
+224,Tech,Small,10961.2,48,127.35,5.0,Gift Cards
+225,Education,Small,70544.12,2,98.91,3.67,Physical Gifts
+226,Healthcare,Large,8564.47,9,61.32,3.13,"Physical Gifts, Custom Gifts"
+227,Education,Enterprise,38551.64,23,53.03,3.09,"Custom Gifts, Gift Cards, Physical Gifts"
+228,Hospitality,Large,1398.04,15,45.48,4.62,"Physical Gifts, Experiences"
+229,Education,Small,58662.77,28,21.93,5.0,Gift Cards
+230,Energy,Small,2985.84,3,83.19,3.63,"Custom Gifts, Gift Cards, Physical Gifts"
+231,Real Estate,Large,25319.2,44,29.02,4.8,Physical Gifts
+232,Healthcare,Small,11914.11,46,91.09,3.21,"Custom Gifts, Physical Gifts"
+233,Finance,Medium,24827.24,32,88.68,4.46,"Physical Gifts, Custom Gifts, Gift Cards"
+234,Healthcare,Small,144124.68,49,62.02,4.58,"Gift Cards, Experiences, Custom Gifts"
+235,Retail,Large,31421.86,49,118.21,4.65,"Physical Gifts, Experiences, Gift Cards"
+236,Education,Small,22332.89,21,81.29,4.31,Physical Gifts
+237,Real Estate,Small,29555.09,46,90.49,4.75,"Physical Gifts, Gift Cards"
+238,Healthcare,Large,8334.13,28,39.94,4.78,Physical Gifts
+239,Education,Medium,13429.15,24,85.49,3.54,"Custom Gifts, Gift Cards, Physical Gifts"
+240,Education,Small,22664.64,2,25.77,2.66,Custom Gifts
+241,Real Estate,Enterprise,26842.64,7,60.75,4.23,"Gift Cards, Experiences"
+242,Hospitality,Large,3097.98,35,103.03,3.91,"Physical Gifts, Custom Gifts, Gift Cards"
+243,Manufacturing,Large,13735.25,6,26.77,3.66,Experiences
+244,Real Estate,Large,21040.39,13,29.1,4.78,"Physical Gifts, Custom Gifts, Gift Cards"
+245,Insurance,Large,24407.86,48,160.78,3.92,"Physical Gifts, Custom Gifts, Experiences"
+246,Healthcare,Medium,46171.76,26,59.57,4.37,Physical Gifts
+247,Manufacturing,Enterprise,6495.44,8,126.72,4.17,"Experiences, Gift Cards"
+248,Manufacturing,Small,181065.58,23,41.08,3.84,"Custom Gifts, Gift Cards"
+249,Finance,Large,19651.33,14,67.1,3.65,"Custom Gifts, Physical Gifts"
+250,Retail,Medium,19165.18,7,56.05,4.07,"Physical Gifts, Experiences, Custom Gifts"
+251,Insurance,Medium,15819.96,30,44.35,4.49,"Physical Gifts, Custom Gifts"
+252,Manufacturing,Large,18699.41,48,63.9,5.0,Physical Gifts
+253,Energy,Enterprise,60196.4,17,78.48,3.13,Experiences
+254,Retail,Small,18698.36,5,69.04,4.55,"Custom Gifts, Experiences"
+255,Healthcare,Enterprise,81005.18,20,43.3,3.79,Custom Gifts
+256,Manufacturing,Enterprise,54089.45,29,94.14,3.64,Physical Gifts
+257,Retail,Medium,13977.06,18,37.64,4.22,"Gift Cards, Experiences"
+258,Education,Small,18748.83,42,52.16,5.0,"Gift Cards, Custom Gifts"
+259,Tech,Enterprise,13707.68,24,42.28,3.62,Gift Cards
+260,Finance,Enterprise,56442.7,27,45.33,4.91,"Custom Gifts, Experiences, Physical Gifts"
+261,Tech,Medium,4298.95,49,47.22,5.0,"Physical Gifts, Gift Cards"
+262,Healthcare,Enterprise,117554.4,12,105.64,3.08,"Custom Gifts, Gift Cards, Physical Gifts"
+263,Manufacturing,Enterprise,2242.08,23,71.9,3.14,"Physical Gifts, Experiences"
+264,Insurance,Enterprise,12230.77,1,76.73,4.43,"Custom Gifts, Physical Gifts"
+265,Tech,Small,12246.89,50,35.76,4.53,"Gift Cards, Custom Gifts"
+266,Real Estate,Medium,34949.12,23,85.64,4.04,Gift Cards
+267,Insurance,Large,69426.34,30,48.58,4.64,"Physical Gifts, Experiences"
+268,Hospitality,Small,22761.03,42,22.36,4.94,"Physical Gifts, Gift Cards, Custom Gifts"
+269,Energy,Large,84717.6,49,48.82,4.25,Gift Cards
+270,Hospitality,Enterprise,10520.28,15,69.61,4.14,Experiences
+271,Hospitality,Small,7050.12,31,53.95,4.19,"Physical Gifts, Custom Gifts"
+272,Real Estate,Medium,25080.85,14,40.22,4.49,"Gift Cards, Custom Gifts, Experiences"
+273,Education,Large,38075.62,19,98.45,3.34,Experiences
+274,Tech,Enterprise,38618.29,3,79.12,4.51,"Gift Cards, Custom Gifts"
+275,Tech,Small,100291.53,15,94.29,3.15,"Custom Gifts, Physical Gifts, Gift Cards"
+276,Tech,Large,6929.64,13,22.51,3.92,"Experiences, Physical Gifts, Custom Gifts"
+277,Manufacturing,Small,53185.97,27,55.33,3.95,"Gift Cards, Experiences"
+278,Real Estate,Medium,48474.83,20,72.39,4.7,"Experiences, Physical Gifts"
+279,Energy,Enterprise,40504.91,44,65.04,3.44,"Gift Cards, Custom Gifts, Experiences"
+280,Insurance,Enterprise,310412.54,45,57.71,5.0,"Gift Cards, Custom Gifts"
+281,Energy,Small,15911.72,40,57.36,3.58,Physical Gifts
+282,Tech,Medium,10218.92,41,67.61,4.55,Gift Cards
+283,Finance,Small,106467.75,12,83.43,3.79,"Experiences, Gift Cards"
+284,Retail,Large,124895.88,9,49.32,4.35,Gift Cards
+285,Manufacturing,Enterprise,22180.07,29,75.12,4.83,"Gift Cards, Physical Gifts, Experiences"
+286,Healthcare,Large,30418.54,1,51.79,4.2,"Experiences, Custom Gifts"
+287,Energy,Medium,9599.38,30,55.33,4.11,"Experiences, Custom Gifts, Gift Cards"
+288,Manufacturing,Enterprise,55313.38,29,114.79,4.48,"Gift Cards, Experiences, Physical Gifts"
+289,Energy,Enterprise,200665.43,24,35.17,3.79,"Gift Cards, Experiences"
+290,Education,Large,12989.05,50,62.32,4.72,"Gift Cards, Physical Gifts"
+291,Retail,Medium,53017.17,37,28.16,5.0,"Experiences, Physical Gifts"
+292,Education,Medium,50045.08,13,51.61,4.83,"Custom Gifts, Gift Cards"
+293,Manufacturing,Medium,58754.85,12,21.23,3.72,"Gift Cards, Custom Gifts"
+294,Healthcare,Large,5142.03,25,117.05,4.26,"Gift Cards, Custom Gifts, Experiences"
+295,Energy,Small,18029.27,34,76.71,5.0,"Custom Gifts, Experiences, Physical Gifts"
+296,Insurance,Small,6039.21,36,69.42,4.68,"Custom Gifts, Experiences"
+297,Insurance,Small,17979.06,36,93.88,4.79,Custom Gifts
+298,Healthcare,Large,20849.88,3,66.46,4.18,Physical Gifts
+299,Hospitality,Large,31996.78,48,71.92,3.47,"Gift Cards, Experiences, Custom Gifts"
+300,Energy,Enterprise,18015.92,44,37.89,4.67,Custom Gifts
+301,Energy,Medium,25484.95,11,31.88,4.2,"Physical Gifts, Experiences"
+302,Retail,Large,62438.42,36,26.42,4.15,"Custom Gifts, Gift Cards"
+303,Tech,Medium,76525.96,51,22.09,4.89,"Gift Cards, Physical Gifts, Experiences"
+304,Energy,Small,38310.23,32,95.02,3.85,"Experiences, Custom Gifts"
+305,Manufacturing,Small,30719.32,11,99.94,3.82,Physical Gifts
+306,Energy,Large,58182.24,41,181.05,3.75,"Physical Gifts, Gift Cards, Custom Gifts"
+307,Healthcare,Large,35673.69,22,57.12,3.83,Custom Gifts
+308,Education,Large,36556.09,28,37.96,4.48,"Physical Gifts, Experiences"
+309,Education,Small,25355.8,7,123.34,4.37,Gift Cards
+310,Manufacturing,Enterprise,216376.5,10,94.3,4.06,"Gift Cards, Physical Gifts, Experiences"
+311,Hospitality,Small,15234.83,45,88.87,4.68,"Experiences, Custom Gifts"
+312,Education,Enterprise,13350.76,32,54.43,4.49,Experiences
+313,Finance,Enterprise,16143.36,25,71.47,3.61,"Gift Cards, Experiences, Physical Gifts"
+314,Hospitality,Medium,23938.56,21,55.4,4.46,"Custom Gifts, Experiences"
+315,Real Estate,Large,26570.77,11,60.33,4.19,"Experiences, Physical Gifts"
+316,Energy,Enterprise,132241.27,4,82.85,4.32,"Custom Gifts, Physical Gifts, Gift Cards"
+317,Education,Enterprise,4853.27,26,75.82,4.22,"Gift Cards, Experiences, Physical Gifts"
+318,Manufacturing,Medium,29451.88,17,107.94,4.43,"Gift Cards, Experiences, Physical Gifts"
+319,Hospitality,Large,70309.34,41,55.75,4.32,"Experiences, Physical Gifts, Custom Gifts"
+320,Manufacturing,Enterprise,3718.99,25,129.58,3.64,"Custom Gifts, Gift Cards"
+321,Manufacturing,Enterprise,12203.8,20,39.32,3.4,Gift Cards
+322,Real Estate,Medium,363555.81,51,131.14,4.58,"Custom Gifts, Gift Cards"
+323,Hospitality,Enterprise,40035.77,26,42.56,4.29,"Experiences, Physical Gifts, Gift Cards"
+324,Hospitality,Small,84835.39,27,42.15,4.7,"Gift Cards, Experiences, Physical Gifts"
+325,Education,Large,2348.58,35,197.9,3.39,"Physical Gifts, Custom Gifts, Experiences"
+326,Real Estate,Enterprise,57860.98,49,130.1,5.0,"Experiences, Gift Cards"
+327,Tech,Large,19069.48,8,49.63,3.83,Physical Gifts
+328,Hospitality,Medium,47557.79,37,38.69,4.2,Physical Gifts
+329,Retail,Enterprise,36498.58,34,61.3,4.33,"Physical Gifts, Experiences"
+330,Manufacturing,Large,11137.24,33,58.92,4.38,"Gift Cards, Experiences"
+331,Energy,Small,7716.65,25,32.69,4.38,"Custom Gifts, Experiences"
+332,Tech,Small,16368.29,37,69.58,4.96,Gift Cards
+333,Hospitality,Large,28321.56,7,34.45,4.38,"Physical Gifts, Custom Gifts"
+334,Hospitality,Enterprise,59466.44,45,45.99,4.86,Gift Cards
+335,Manufacturing,Large,14220.43,2,58.07,4.42,"Gift Cards, Physical Gifts, Experiences"
+336,Insurance,Large,2217.95,2,98.35,4.05,"Physical Gifts, Custom Gifts"
+337,Manufacturing,Enterprise,33203.26,25,34.4,3.93,Gift Cards
+338,Real Estate,Large,7787.83,18,70.25,3.98,Experiences
+339,Finance,Medium,7987.39,18,33.49,4.24,Experiences
+340,Tech,Small,69932.98,42,65.04,4.05,"Physical Gifts, Gift Cards, Experiences"
+341,Retail,Enterprise,61807.61,42,75.39,3.67,"Gift Cards, Experiences, Physical Gifts"
+342,Healthcare,Large,18780.55,15,46.6,4.16,"Experiences, Physical Gifts, Custom Gifts"
+343,Insurance,Enterprise,73066.94,23,48.17,4.81,"Physical Gifts, Gift Cards, Experiences"
+344,Retail,Large,47763.56,6,51.93,4.56,"Custom Gifts, Physical Gifts, Experiences"
+345,Finance,Small,79863.42,50,32.87,4.3,"Experiences, Physical Gifts, Gift Cards"
+346,Finance,Enterprise,5499.06,2,53.65,4.08,"Gift Cards, Physical Gifts, Experiences"
+347,Finance,Large,192228.72,39,59.49,4.0,"Physical Gifts, Gift Cards, Experiences"
+348,Retail,Enterprise,55119.46,27,89.99,4.83,"Experiences, Gift Cards, Physical Gifts"
+349,Energy,Large,13698.61,38,44.58,3.94,"Gift Cards, Experiences"
+350,Retail,Enterprise,28647.32,17,68.09,3.01,"Physical Gifts, Experiences"
+351,Healthcare,Medium,47647.89,19,43.12,4.7,"Custom Gifts, Physical Gifts"
+352,Education,Enterprise,11912.07,29,86.96,5.0,Experiences
+353,Insurance,Enterprise,79666.46,11,68.88,4.48,"Physical Gifts, Experiences"
+354,Real Estate,Enterprise,220125.41,15,49.93,3.97,Physical Gifts
+355,Real Estate,Enterprise,35205.77,44,81.76,5.0,Gift Cards
+356,Education,Medium,2779.14,50,51.99,4.2,Gift Cards
+357,Manufacturing,Large,43643.29,19,73.56,3.98,"Gift Cards, Custom Gifts, Physical Gifts"
+358,Insurance,Enterprise,84458.32,43,34.0,4.52,"Experiences, Physical Gifts"
+359,Hospitality,Enterprise,5971.74,41,18.78,4.51,"Experiences, Custom Gifts, Gift Cards"
+360,Tech,Medium,115610.59,24,35.51,4.71,Gift Cards
+361,Manufacturing,Enterprise,21266.31,5,59.42,4.68,Physical Gifts
+362,Real Estate,Large,48282.85,30,56.35,4.53,"Physical Gifts, Experiences, Gift Cards"
+363,Retail,Small,15384.39,51,61.29,4.14,Physical Gifts
+364,Hospitality,Enterprise,12535.74,46,96.06,5.0,"Custom Gifts, Experiences"
+365,Energy,Large,32676.72,33,105.77,5.0,Gift Cards
+366,Finance,Medium,7223.46,47,99.71,3.72,"Custom Gifts, Gift Cards"
+367,Healthcare,Large,180655.54,6,67.44,4.13,"Experiences, Physical Gifts, Gift Cards"
+368,Tech,Small,27304.69,31,30.99,3.17,"Custom Gifts, Experiences"
+369,Hospitality,Large,21353.38,26,57.4,4.89,"Experiences, Custom Gifts"
+370,Energy,Enterprise,31974.84,15,68.3,4.11,"Physical Gifts, Experiences"
+371,Retail,Small,29006.01,19,160.28,4.04,"Experiences, Custom Gifts, Gift Cards"
+372,Real Estate,Large,38086.99,28,46.7,5.0,Gift Cards
+373,Finance,Large,13700.33,45,87.65,4.04,"Experiences, Gift Cards, Custom Gifts"
+374,Education,Large,34096.68,42,77.98,4.61,Experiences
+375,Insurance,Small,31663.4,10,83.26,3.33,"Custom Gifts, Experiences"
+376,Hospitality,Small,68444.71,42,97.14,5.0,"Physical Gifts, Experiences"
+377,Tech,Medium,17692.08,1,141.51,3.86,Experiences
+378,Retail,Large,5956.33,38,69.98,4.55,"Gift Cards, Custom Gifts, Experiences"
+379,Hospitality,Enterprise,7448.6,31,81.96,4.18,"Experiences, Physical Gifts, Gift Cards"
+380,Real Estate,Large,56730.53,23,62.96,4.2,"Experiences, Gift Cards"
+381,Real Estate,Medium,14484.49,6,56.82,4.14,"Gift Cards, Physical Gifts"
+382,Finance,Small,40298.67,47,128.15,4.29,Custom Gifts
+383,Real Estate,Medium,31009.89,14,83.26,3.51,"Custom Gifts, Experiences, Gift Cards"
+384,Education,Large,8873.35,36,63.82,5.0,Custom Gifts
+385,Tech,Enterprise,295261.36,2,50.1,3.66,Gift Cards
+386,Retail,Large,9904.28,25,28.69,4.11,"Experiences, Custom Gifts"
+387,Retail,Small,29329.39,47,132.53,4.8,Physical Gifts
+388,Manufacturing,Medium,6630.21,49,136.38,4.28,Custom Gifts
+389,Retail,Medium,26903.73,40,83.77,4.7,"Physical Gifts, Custom Gifts"
+390,Retail,Enterprise,9693.92,37,43.05,4.29,"Experiences, Custom Gifts"
+391,Hospitality,Large,19857.26,17,96.91,3.67,"Physical Gifts, Custom Gifts"
+392,Finance,Enterprise,50351.43,31,52.48,4.23,Experiences
+393,Hospitality,Large,87332.8,48,39.42,4.69,Custom Gifts
+394,Energy,Enterprise,51997.25,48,48.19,5.0,"Custom Gifts, Physical Gifts, Experiences"
+395,Manufacturing,Medium,47109.95,22,59.59,4.08,"Physical Gifts, Gift Cards, Experiences"
+396,Education,Small,20607.06,35,30.08,4.18,"Physical Gifts, Gift Cards"
+397,Hospitality,Medium,39533.83,35,49.09,4.44,Experiences
+398,Insurance,Large,49671.3,21,41.52,4.15,"Custom Gifts, Experiences"
+399,Hospitality,Medium,9108.91,43,24.73,5.0,"Physical Gifts, Gift Cards, Custom Gifts"
+400,Insurance,Large,20627.01,4,30.05,4.42,"Experiences, Physical Gifts"
+401,Healthcare,Medium,15703.28,11,56.77,3.59,"Gift Cards, Experiences"
+402,Manufacturing,Large,22407.73,50,39.44,4.82,"Custom Gifts, Gift Cards, Physical Gifts"
+403,Education,Medium,22290.88,8,57.48,3.68,"Gift Cards, Experiences, Physical Gifts"
+404,Real Estate,Small,14944.28,20,59.95,3.5,"Experiences, Gift Cards, Custom Gifts"
+405,Real Estate,Small,5332.41,30,72.67,4.04,"Physical Gifts, Experiences, Gift Cards"
+406,Healthcare,Medium,13625.39,42,60.06,4.48,"Physical Gifts, Custom Gifts, Experiences"
+407,Healthcare,Small,20059.87,17,86.24,4.21,"Gift Cards, Physical Gifts"
+408,Finance,Medium,68251.4,42,69.53,4.68,Custom Gifts
+409,Education,Small,14708.34,11,39.01,4.35,"Physical Gifts, Gift Cards"
+410,Tech,Large,22481.8,5,109.95,4.4,Custom Gifts
+411,Real Estate,Enterprise,31242.13,48,76.13,4.16,Custom Gifts
+412,Tech,Large,10302.46,10,88.51,4.04,"Gift Cards, Custom Gifts"
+413,Retail,Enterprise,33705.7,3,49.63,3.24,Gift Cards
+414,Education,Large,17574.53,2,43.39,2.77,"Gift Cards, Custom Gifts"
+415,Energy,Enterprise,57948.95,6,29.54,4.38,"Experiences, Gift Cards, Physical Gifts"
+416,Retail,Medium,108102.88,12,73.77,3.32,Physical Gifts
+417,Finance,Medium,22482.84,6,24.03,3.49,"Gift Cards, Physical Gifts"
+418,Education,Enterprise,31626.82,15,66.98,4.15,"Custom Gifts, Experiences"
+419,Education,Small,36298.94,51,22.83,3.86,Physical Gifts
+420,Energy,Enterprise,21116.98,12,65.08,4.31,Custom Gifts
+421,Hospitality,Enterprise,20996.55,39,16.55,3.99,Physical Gifts
+422,Retail,Large,22909.3,28,47.14,4.17,Custom Gifts
+423,Education,Large,11122.52,1,56.29,3.13,"Gift Cards, Experiences, Custom Gifts"
+424,Real Estate,Medium,26091.66,51,35.82,4.06,Physical Gifts
+425,Education,Enterprise,89221.1,27,62.49,4.28,"Gift Cards, Custom Gifts, Physical Gifts"
+426,Finance,Medium,213398.49,2,67.4,4.44,"Physical Gifts, Custom Gifts"
+427,Real Estate,Medium,98339.96,43,116.5,4.61,Custom Gifts
+428,Hospitality,Medium,11692.1,29,163.5,5.0,"Experiences, Custom Gifts"
+429,Retail,Small,40465.58,28,37.39,4.54,"Physical Gifts, Experiences, Gift Cards"
+430,Retail,Medium,11700.64,25,86.19,4.13,"Custom Gifts, Gift Cards"
+431,Manufacturing,Medium,4956.74,49,35.03,4.08,"Physical Gifts, Experiences"
+432,Hospitality,Enterprise,123336.83,31,114.46,4.91,"Custom Gifts, Experiences, Gift Cards"
+433,Manufacturing,Small,70351.78,47,66.06,4.79,"Gift Cards, Experiences"
+434,Retail,Large,33956.12,32,19.89,5.0,"Gift Cards, Physical Gifts"
+435,Education,Small,53459.14,24,35.61,4.35,Experiences
+436,Tech,Small,22270.66,5,54.97,3.11,"Custom Gifts, Physical Gifts"
+437,Healthcare,Small,9069.51,39,20.24,4.57,"Physical Gifts, Gift Cards, Custom Gifts"
+438,Hospitality,Large,33831.24,45,285.47,4.25,Gift Cards
+439,Finance,Medium,6111.65,3,82.49,5.0,"Physical Gifts, Experiences, Gift Cards"
+440,Finance,Medium,37062.91,6,76.26,4.42,"Custom Gifts, Experiences, Gift Cards"
+441,Real Estate,Enterprise,26378.3,7,74.35,4.32,"Physical Gifts, Custom Gifts"
+442,Manufacturing,Enterprise,41048.19,19,106.86,4.56,"Experiences, Physical Gifts, Custom Gifts"
+443,Education,Medium,94063.66,29,45.8,4.0,"Physical Gifts, Experiences"
+444,Hospitality,Medium,69756.59,4,65.98,4.14,"Gift Cards, Custom Gifts"
+445,Finance,Small,5260.36,11,58.2,4.26,"Experiences, Custom Gifts"
+446,Healthcare,Enterprise,33910.25,4,182.18,3.95,"Gift Cards, Physical Gifts, Experiences"
+447,Energy,Large,65901.93,1,65.87,4.51,"Experiences, Physical Gifts, Custom Gifts"
+448,Healthcare,Enterprise,47067.47,2,37.48,3.78,"Custom Gifts, Physical Gifts"
+449,Energy,Small,90718.86,19,74.47,4.33,"Experiences, Physical Gifts"
+450,Manufacturing,Large,12986.76,37,40.9,4.84,Gift Cards
+451,Education,Small,25496.47,9,53.33,4.27,"Experiences, Physical Gifts, Custom Gifts"
+452,Tech,Small,10523.61,13,129.95,4.31,"Physical Gifts, Experiences, Gift Cards"
+453,Healthcare,Small,9015.44,16,98.43,3.4,"Physical Gifts, Custom Gifts, Gift Cards"
+454,Tech,Medium,17309.67,17,79.44,3.66,"Physical Gifts, Experiences"
+455,Finance,Large,77212.94,10,27.22,3.21,Physical Gifts
+456,Education,Enterprise,54025.63,17,76.9,3.81,"Experiences, Custom Gifts"
+457,Tech,Large,10686.24,40,75.49,4.62,Gift Cards
+458,Energy,Large,5669.12,37,53.42,3.78,Physical Gifts
+459,Finance,Medium,41126.57,12,41.5,4.43,Experiences
+460,Healthcare,Medium,33226.62,38,58.84,4.91,Gift Cards
+461,Education,Large,32049.65,44,84.05,5.0,"Physical Gifts, Experiences, Custom Gifts"
+462,Real Estate,Small,1703.25,35,50.5,4.74,Experiences
+463,Insurance,Large,38428.72,18,60.44,2.89,"Gift Cards, Custom Gifts, Experiences"
+464,Insurance,Large,21113.71,21,28.08,4.0,Physical Gifts
+465,Education,Small,20216.4,49,27.68,4.56,"Physical Gifts, Gift Cards, Custom Gifts"
+466,Tech,Medium,25626.45,45,70.49,5.0,"Custom Gifts, Physical Gifts"
+467,Insurance,Medium,17923.2,14,67.71,3.5,"Physical Gifts, Custom Gifts"
+468,Finance,Enterprise,39851.98,4,56.35,3.8,Custom Gifts
+469,Hospitality,Small,89548.59,17,81.37,3.7,"Gift Cards, Experiences, Custom Gifts"
+470,Education,Large,6807.8,45,45.71,5.0,"Gift Cards, Experiences, Custom Gifts"
+471,Real Estate,Small,12558.31,17,51.71,3.41,"Gift Cards, Experiences"
+472,Healthcare,Small,5660.78,50,49.48,3.56,"Physical Gifts, Experiences, Gift Cards"
+473,Education,Large,6000.8,30,78.93,4.57,"Experiences, Custom Gifts, Gift Cards"
+474,Energy,Large,13634.1,2,22.71,4.18,"Custom Gifts, Physical Gifts"
+475,Healthcare,Small,9798.42,28,58.86,4.12,"Experiences, Physical Gifts, Custom Gifts"
+476,Manufacturing,Medium,5463.99,19,148.68,3.46,Custom Gifts
+477,Tech,Enterprise,95941.6,48,179.56,5.0,"Custom Gifts, Physical Gifts"
+478,Finance,Enterprise,25007.56,8,47.74,4.56,Custom Gifts
+479,Manufacturing,Enterprise,15900.13,46,63.9,3.89,"Custom Gifts, Physical Gifts"
+480,Energy,Enterprise,93857.63,40,67.86,4.25,Physical Gifts
+481,Finance,Medium,16718.55,42,23.49,3.58,Physical Gifts
+482,Real Estate,Large,48426.27,14,80.62,3.92,"Physical Gifts, Experiences"
+483,Energy,Small,40479.69,50,77.2,4.7,Physical Gifts
+484,Finance,Medium,48060.48,12,76.04,4.38,"Physical Gifts, Experiences"
+485,Insurance,Small,7063.97,25,58.84,3.91,Experiences
+486,Energy,Small,14581.07,34,53.08,4.44,Custom Gifts
+487,Manufacturing,Large,63808.16,17,41.3,3.05,"Gift Cards, Physical Gifts"
+488,Retail,Large,36343.28,17,86.99,3.91,"Gift Cards, Physical Gifts"
+489,Real Estate,Enterprise,19686.83,28,95.26,3.8,"Gift Cards, Experiences"
+490,Real Estate,Large,38030.59,42,37.5,3.96,"Experiences, Gift Cards"
+491,Hospitality,Large,18730.54,22,34.07,4.42,Gift Cards
+492,Tech,Small,5896.21,27,47.38,5.0,"Custom Gifts, Physical Gifts, Gift Cards"
+493,Retail,Large,67302.76,5,37.49,4.45,"Experiences, Gift Cards, Physical Gifts"
+494,Healthcare,Medium,11479.63,8,61.4,5.0,Experiences
+495,Retail,Medium,11176.55,8,60.58,4.12,"Gift Cards, Physical Gifts, Custom Gifts"
+496,Real Estate,Medium,11805.39,10,52.35,4.46,Physical Gifts
+497,Tech,Enterprise,146386.22,40,96.5,4.89,"Custom Gifts, Gift Cards, Physical Gifts"
+498,Retail,Small,8923.37,6,82.04,4.08,Physical Gifts
+499,Energy,Small,140236.16,22,52.83,3.75,"Gift Cards, Experiences, Physical Gifts"
+500,Real Estate,Small,64603.1,17,59.67,4.05,"Experiences, Custom Gifts, Gift Cards"
+501,Hospitality,Small,21436.09,47,63.8,5.0,Gift Cards
+502,Healthcare,Small,20660.61,29,95.88,3.9,"Custom Gifts, Physical Gifts"
+503,Real Estate,Small,51629.37,43,27.27,5.0,"Experiences, Custom Gifts, Gift Cards"
+504,Manufacturing,Enterprise,29772.19,6,35.85,3.83,Custom Gifts
+505,Manufacturing,Medium,43563.91,22,60.27,4.22,"Experiences, Physical Gifts, Custom Gifts"
+506,Retail,Small,22861.3,43,67.09,3.92,"Gift Cards, Physical Gifts"
+507,Hospitality,Enterprise,4656.59,42,56.75,3.83,"Custom Gifts, Gift Cards, Physical Gifts"
+508,Insurance,Large,13332.49,2,64.26,3.06,"Experiences, Custom Gifts, Physical Gifts"
+509,Energy,Medium,6301.89,32,26.69,5.0,"Gift Cards, Physical Gifts, Custom Gifts"
+510,Retail,Small,21056.49,2,29.99,3.33,"Physical Gifts, Gift Cards"
+511,Hospitality,Large,33138.03,38,22.85,4.39,Physical Gifts
+512,Finance,Large,19919.34,6,82.21,3.63,"Gift Cards, Custom Gifts, Physical Gifts"
+513,Healthcare,Large,8082.01,33,46.61,4.18,"Physical Gifts, Gift Cards, Custom Gifts"
+514,Retail,Medium,26860.94,13,64.89,4.09,"Gift Cards, Experiences"
+515,Energy,Enterprise,13544.53,13,47.07,4.12,Gift Cards
+516,Retail,Small,20741.85,47,54.32,4.26,"Experiences, Custom Gifts"
+517,Hospitality,Medium,81754.54,25,124.68,4.32,"Gift Cards, Custom Gifts"
+518,Tech,Large,16575.92,3,41.28,4.41,Custom Gifts
+519,Energy,Small,16956.17,26,21.33,4.15,"Physical Gifts, Custom Gifts, Gift Cards"
+520,Finance,Medium,51815.64,25,49.44,3.14,Experiences
+521,Tech,Enterprise,6438.93,21,16.02,3.31,"Gift Cards, Custom Gifts"
+522,Insurance,Medium,71285.27,17,94.54,5.0,"Gift Cards, Experiences, Custom Gifts"
+523,Healthcare,Small,10172.43,25,21.32,4.51,"Gift Cards, Physical Gifts"
+524,Hospitality,Large,73355.22,9,76.81,4.58,"Custom Gifts, Experiences, Gift Cards"
+525,Retail,Small,17805.83,37,48.98,4.49,Experiences
+526,Healthcare,Medium,51853.28,41,35.11,4.77,"Gift Cards, Custom Gifts, Experiences"
+527,Retail,Small,54358.2,18,56.26,5.0,"Gift Cards, Physical Gifts, Experiences"
+528,Energy,Medium,65075.77,11,32.29,3.31,"Experiences, Gift Cards"
+529,Retail,Small,103732.21,21,132.21,4.26,"Physical Gifts, Custom Gifts"
+530,Real Estate,Enterprise,57370.1,40,101.89,3.9,"Physical Gifts, Experiences"
+531,Hospitality,Large,21604.51,21,200.11,2.88,"Gift Cards, Experiences"
+532,Tech,Enterprise,36058.8,27,67.52,4.8,"Gift Cards, Experiences"
+533,Real Estate,Small,2221.68,39,20.05,4.44,"Physical Gifts, Experiences, Custom Gifts"
+534,Retail,Large,4805.66,28,35.07,4.88,"Gift Cards, Physical Gifts, Experiences"
+535,Hospitality,Large,40066.04,3,58.9,4.2,"Gift Cards, Physical Gifts"
+536,Healthcare,Enterprise,16738.3,17,33.52,3.95,"Custom Gifts, Physical Gifts"
+537,Education,Enterprise,17775.93,50,47.96,4.07,"Gift Cards, Custom Gifts, Experiences"
+538,Retail,Enterprise,7987.11,28,46.69,4.48,"Custom Gifts, Experiences"
+539,Real Estate,Large,68440.18,10,56.36,3.96,Gift Cards
+540,Manufacturing,Medium,33284.27,47,144.01,4.27,"Custom Gifts, Physical Gifts, Gift Cards"
+541,Energy,Enterprise,27866.55,27,161.05,5.0,"Custom Gifts, Experiences, Gift Cards"
+542,Insurance,Small,319735.11,51,48.5,3.87,"Physical Gifts, Experiences"
+543,Finance,Large,5800.0,25,61.8,3.44,Custom Gifts
+544,Insurance,Medium,5780.35,6,15.07,3.28,Custom Gifts
+545,Manufacturing,Enterprise,6069.5,8,58.03,4.25,Physical Gifts
+546,Healthcare,Medium,28826.44,48,62.34,5.0,"Experiences, Gift Cards, Physical Gifts"
+547,Finance,Medium,17189.5,17,17.6,2.65,Experiences
+548,Energy,Large,96666.2,25,54.98,3.45,"Custom Gifts, Physical Gifts"
+549,Education,Small,43913.74,22,96.52,3.61,"Gift Cards, Custom Gifts"
+550,Insurance,Medium,168443.36,6,64.18,3.84,"Custom Gifts, Physical Gifts"
+551,Manufacturing,Enterprise,26936.57,35,67.76,3.86,"Experiences, Custom Gifts, Physical Gifts"
+552,Education,Medium,21197.63,29,81.21,4.52,"Physical Gifts, Custom Gifts"
+553,Finance,Large,7779.4,33,50.78,4.83,"Custom Gifts, Physical Gifts"
+554,Healthcare,Large,16761.01,41,20.64,5.0,"Experiences, Custom Gifts"
+555,Insurance,Large,6180.4,29,56.04,5.0,"Experiences, Physical Gifts"
+556,Finance,Large,13775.19,14,88.54,4.73,"Experiences, Gift Cards"
+557,Finance,Enterprise,45279.05,37,56.64,4.22,Custom Gifts
+558,Healthcare,Small,34525.29,2,46.62,4.82,"Gift Cards, Custom Gifts"
+559,Retail,Medium,18456.1,38,50.88,3.57,"Experiences, Custom Gifts"
+560,Hospitality,Small,40493.37,28,39.49,4.31,"Physical Gifts, Experiences, Gift Cards"
+561,Insurance,Small,12053.38,35,115.38,4.22,Custom Gifts
+562,Tech,Small,15156.42,51,121.83,4.7,"Physical Gifts, Custom Gifts, Experiences"
+563,Tech,Enterprise,175116.14,11,31.83,4.01,"Physical Gifts, Experiences"
+564,Education,Small,12252.87,39,75.29,3.88,"Experiences, Gift Cards"
+565,Real Estate,Medium,12878.52,45,50.35,4.15,"Gift Cards, Experiences, Custom Gifts"
+566,Real Estate,Small,10901.28,41,48.35,5.0,"Physical Gifts, Experiences, Gift Cards"
+567,Tech,Medium,6751.08,6,71.07,4.73,"Gift Cards, Custom Gifts, Experiences"
+568,Tech,Enterprise,111286.04,43,114.2,3.96,"Experiences, Custom Gifts"
+569,Healthcare,Large,20534.4,2,50.34,3.81,Custom Gifts
+570,Energy,Medium,24693.22,34,59.16,4.58,Physical Gifts
+571,Manufacturing,Medium,106291.56,44,59.72,3.48,"Physical Gifts, Gift Cards"
+572,Hospitality,Large,7578.71,50,40.06,4.9,Experiences
+573,Education,Small,9185.97,32,21.11,4.42,Custom Gifts
+574,Manufacturing,Medium,12519.16,2,76.78,4.41,"Custom Gifts, Experiences, Physical Gifts"
+575,Retail,Small,14232.93,17,39.59,4.41,Gift Cards
+576,Tech,Medium,13275.09,34,116.41,4.3,Physical Gifts
+577,Hospitality,Enterprise,39889.88,22,40.7,4.19,Physical Gifts
+578,Manufacturing,Medium,6576.37,18,48.44,4.35,"Physical Gifts, Gift Cards"
+579,Healthcare,Small,3755.95,26,31.22,4.12,Experiences
+580,Energy,Small,13782.61,35,60.57,3.95,"Gift Cards, Custom Gifts"
+581,Healthcare,Large,11240.44,49,78.13,4.51,"Gift Cards, Custom Gifts, Experiences"
+582,Retail,Enterprise,32002.99,45,97.88,5.0,"Custom Gifts, Physical Gifts"
+583,Insurance,Small,35765.19,43,50.04,5.0,Physical Gifts
+584,Finance,Medium,40616.02,2,55.56,3.19,Experiences
+585,Hospitality,Enterprise,86312.08,24,31.27,3.79,"Gift Cards, Physical Gifts"
+586,Finance,Small,22854.84,44,123.94,4.52,"Gift Cards, Physical Gifts, Custom Gifts"
+587,Hospitality,Medium,23801.76,39,35.96,3.9,"Custom Gifts, Physical Gifts, Gift Cards"
+588,Healthcare,Enterprise,51294.73,2,49.46,4.79,"Custom Gifts, Physical Gifts"
+589,Insurance,Small,10412.56,17,55.36,5.0,"Custom Gifts, Experiences"
+590,Insurance,Large,20443.79,10,157.94,4.47,Custom Gifts
+591,Real Estate,Small,10650.18,28,63.88,4.73,Custom Gifts
+592,Hospitality,Medium,5273.65,42,47.3,5.0,"Physical Gifts, Custom Gifts"
+593,Manufacturing,Medium,57064.49,34,61.75,4.04,"Experiences, Gift Cards, Custom Gifts"
+594,Energy,Medium,50565.24,27,127.47,4.86,Custom Gifts
+595,Insurance,Medium,994.17,41,104.58,5.0,"Experiences, Custom Gifts"
+596,Hospitality,Large,11148.9,9,82.78,3.59,Physical Gifts
+597,Education,Enterprise,34580.11,11,95.27,3.74,"Experiences, Gift Cards, Custom Gifts"
+598,Education,Enterprise,28306.71,25,36.3,4.56,Gift Cards
+599,Retail,Enterprise,73596.56,25,32.99,3.89,"Custom Gifts, Physical Gifts"
+600,Energy,Medium,25301.46,41,22.03,3.77,"Custom Gifts, Experiences"
+601,Healthcare,Medium,11178.02,6,46.65,4.16,Experiences
+602,Hospitality,Medium,60637.11,29,101.01,4.69,"Experiences, Custom Gifts"
+603,Tech,Enterprise,64818.84,25,78.49,4.24,Custom Gifts
+604,Education,Large,26877.81,49,232.39,4.3,Custom Gifts
+605,Hospitality,Medium,26221.17,15,39.44,3.98,Physical Gifts
+606,Real Estate,Large,29652.69,14,34.15,4.27,Custom Gifts
+607,Insurance,Medium,113327.44,50,92.23,3.31,"Custom Gifts, Gift Cards"
+608,Real Estate,Medium,16920.12,2,75.39,3.15,"Experiences, Physical Gifts"
+609,Finance,Small,18477.73,44,58.68,4.31,Custom Gifts
+610,Education,Enterprise,27084.22,10,139.0,4.78,"Custom Gifts, Experiences"
+611,Real Estate,Small,24676.54,4,118.32,2.6,Physical Gifts
+612,Education,Small,80353.99,26,79.26,4.64,"Physical Gifts, Custom Gifts, Experiences"
+613,Education,Small,53827.59,49,16.98,4.92,"Custom Gifts, Gift Cards"
+614,Finance,Medium,21003.48,18,31.33,3.79,"Gift Cards, Experiences"
+615,Manufacturing,Enterprise,10874.85,40,96.27,4.3,"Physical Gifts, Gift Cards, Custom Gifts"
+616,Tech,Medium,33544.07,46,145.47,3.68,Physical Gifts
+617,Tech,Enterprise,9215.92,47,27.57,4.18,"Custom Gifts, Experiences"
+618,Healthcare,Large,205060.09,1,36.8,3.73,Custom Gifts
+619,Retail,Large,241046.97,37,46.73,4.49,"Physical Gifts, Gift Cards"
+620,Real Estate,Small,7716.31,20,51.04,3.72,"Physical Gifts, Experiences"
+621,Retail,Medium,2696.75,45,68.52,3.27,"Physical Gifts, Experiences, Gift Cards"
+622,Insurance,Enterprise,16573.97,51,109.05,4.44,Physical Gifts
+623,Tech,Large,10388.24,25,108.92,3.96,"Experiences, Custom Gifts, Gift Cards"
+624,Hospitality,Large,2245.19,15,30.17,3.84,"Physical Gifts, Gift Cards"
+625,Tech,Large,10785.21,45,32.69,3.84,"Gift Cards, Experiences"
+626,Tech,Medium,3666.96,22,109.94,3.7,Custom Gifts
+627,Education,Enterprise,7780.59,36,54.49,4.48,"Experiences, Gift Cards"
+628,Education,Enterprise,55585.73,21,18.6,4.13,"Custom Gifts, Physical Gifts, Experiences"
+629,Finance,Enterprise,389439.71,29,53.26,4.1,"Gift Cards, Custom Gifts, Experiences"
+630,Education,Large,3285.02,18,32.49,4.11,"Physical Gifts, Gift Cards"
+631,Real Estate,Medium,14049.15,26,54.19,3.56,"Custom Gifts, Physical Gifts, Gift Cards"
+632,Healthcare,Small,2659.46,22,20.35,4.3,"Custom Gifts, Physical Gifts, Experiences"
+633,Healthcare,Enterprise,37175.98,12,14.79,4.28,"Gift Cards, Experiences, Physical Gifts"
+634,Insurance,Small,3408.15,35,67.15,4.31,Custom Gifts
+635,Hospitality,Small,15855.01,37,25.95,5.0,Custom Gifts
+636,Energy,Large,67086.96,48,50.58,4.31,"Physical Gifts, Custom Gifts, Gift Cards"
+637,Insurance,Small,17952.5,47,41.13,5.0,"Gift Cards, Custom Gifts"
+638,Retail,Medium,23228.31,24,43.13,4.08,"Experiences, Physical Gifts, Gift Cards"
+639,Healthcare,Small,5038.97,3,54.59,3.4,Gift Cards
+640,Manufacturing,Medium,43334.16,43,50.46,4.44,Gift Cards
+641,Healthcare,Medium,3017.28,45,73.85,3.9,"Physical Gifts, Experiences, Custom Gifts"
+642,Energy,Medium,43193.38,5,99.11,3.76,"Gift Cards, Physical Gifts, Custom Gifts"
+643,Insurance,Medium,28546.42,37,60.74,3.76,Gift Cards
+644,Healthcare,Large,75765.57,51,46.37,3.83,Experiences
+645,Insurance,Large,13922.43,17,81.33,3.63,Physical Gifts
+646,Hospitality,Enterprise,175387.41,51,29.03,3.95,"Physical Gifts, Experiences"
+647,Insurance,Medium,14252.43,9,39.87,4.99,"Gift Cards, Experiences, Physical Gifts"
+648,Finance,Enterprise,32865.5,32,70.71,4.29,"Physical Gifts, Custom Gifts"
+649,Education,Medium,11661.55,26,74.94,3.96,Experiences
+650,Education,Small,54726.37,19,93.4,4.75,Gift Cards
+651,Manufacturing,Small,27581.22,24,149.35,3.9,Custom Gifts
+652,Education,Enterprise,89452.2,27,35.98,3.99,Physical Gifts
+653,Insurance,Enterprise,18437.58,8,43.22,3.31,"Physical Gifts, Gift Cards"
+654,Energy,Small,53331.7,10,97.78,3.7,"Experiences, Gift Cards, Physical Gifts"
+655,Insurance,Large,42043.06,5,64.02,4.13,Physical Gifts
+656,Hospitality,Medium,133395.35,5,28.33,4.18,Gift Cards
+657,Hospitality,Small,27180.87,6,139.25,4.42,"Physical Gifts, Gift Cards"
+658,Hospitality,Small,26887.13,44,53.27,5.0,"Physical Gifts, Experiences"
+659,Real Estate,Medium,32698.71,28,78.22,4.36,"Gift Cards, Experiences, Physical Gifts"
+660,Real Estate,Enterprise,114192.91,39,18.55,4.65,Custom Gifts
+661,Real Estate,Large,18256.03,22,61.82,4.21,"Custom Gifts, Gift Cards"
+662,Education,Enterprise,16905.54,8,33.09,3.62,"Gift Cards, Physical Gifts, Experiences"
+663,Manufacturing,Enterprise,50153.58,35,64.5,4.93,"Custom Gifts, Experiences, Physical Gifts"
+664,Tech,Medium,135957.76,8,41.32,3.08,"Experiences, Physical Gifts, Gift Cards"
+665,Manufacturing,Small,23256.97,35,100.09,4.12,Custom Gifts
+666,Insurance,Small,22380.65,36,36.65,4.6,Gift Cards
+667,Finance,Medium,30096.71,9,72.28,4.15,Gift Cards
+668,Energy,Medium,26283.89,1,34.92,4.48,"Gift Cards, Physical Gifts"
+669,Tech,Small,41720.02,12,47.91,4.17,"Gift Cards, Custom Gifts"
+670,Healthcare,Medium,11671.57,41,47.2,4.84,Gift Cards
+671,Hospitality,Medium,17941.75,20,39.28,3.9,"Physical Gifts, Experiences, Custom Gifts"
+672,Finance,Large,364790.12,15,47.4,3.72,"Custom Gifts, Physical Gifts, Experiences"
+673,Finance,Small,21445.57,3,60.84,4.02,Experiences
+674,Finance,Large,9347.35,37,143.14,4.14,"Custom Gifts, Experiences, Gift Cards"
+675,Finance,Large,40277.49,43,43.5,4.32,"Physical Gifts, Custom Gifts"
+676,Insurance,Large,24308.78,40,40.11,5.0,Custom Gifts
+677,Manufacturing,Large,5954.78,40,52.03,4.29,"Custom Gifts, Gift Cards"
+678,Manufacturing,Enterprise,26253.21,18,96.96,4.32,Custom Gifts
+679,Insurance,Large,25028.51,35,63.29,5.0,Gift Cards
+680,Education,Medium,50102.63,31,57.23,4.88,"Physical Gifts, Custom Gifts, Experiences"
+681,Insurance,Medium,33416.13,39,58.56,4.86,"Experiences, Custom Gifts, Physical Gifts"
+682,Insurance,Small,17722.94,15,65.23,4.28,"Experiences, Gift Cards"
+683,Finance,Enterprise,108505.34,13,31.61,3.44,"Custom Gifts, Gift Cards"
+684,Real Estate,Small,4191.42,24,36.57,4.25,"Experiences, Custom Gifts, Gift Cards"
+685,Energy,Small,55575.16,45,55.88,4.18,"Gift Cards, Experiences"
+686,Healthcare,Small,48211.44,7,34.59,2.96,"Physical Gifts, Gift Cards, Custom Gifts"
+687,Education,Enterprise,103452.24,19,131.58,3.28,Physical Gifts
+688,Healthcare,Enterprise,80827.2,50,58.47,5.0,"Physical Gifts, Gift Cards"
+689,Insurance,Medium,93559.44,30,68.59,4.13,"Gift Cards, Experiences"
+690,Tech,Large,14852.46,1,55.03,4.0,"Gift Cards, Experiences"
+691,Retail,Small,10298.91,6,61.64,4.1,"Custom Gifts, Experiences, Gift Cards"
+692,Real Estate,Large,27100.58,51,99.03,4.92,"Physical Gifts, Experiences, Gift Cards"
+693,Healthcare,Small,27078.19,37,36.61,4.85,"Custom Gifts, Experiences, Gift Cards"
+694,Retail,Medium,78229.64,47,64.51,4.63,Experiences
+695,Education,Medium,54341.83,30,70.71,4.52,"Gift Cards, Custom Gifts"
+696,Hospitality,Small,15053.06,44,61.5,5.0,"Physical Gifts, Custom Gifts, Experiences"
+697,Retail,Small,7724.52,27,36.26,4.04,"Physical Gifts, Gift Cards"
+698,Tech,Enterprise,11244.07,8,42.92,4.47,"Physical Gifts, Gift Cards, Experiences"
+699,Education,Enterprise,24583.99,29,35.11,4.6,"Physical Gifts, Custom Gifts, Experiences"
+700,Healthcare,Large,31631.71,15,46.96,5.0,"Custom Gifts, Physical Gifts"
+701,Insurance,Enterprise,46799.97,7,30.04,3.47,"Custom Gifts, Gift Cards, Experiences"
+702,Energy,Medium,11814.86,35,57.27,4.58,"Experiences, Gift Cards, Custom Gifts"
+703,Energy,Enterprise,27782.47,32,18.88,4.65,Experiences
+704,Retail,Large,43781.12,3,45.02,3.29,"Physical Gifts, Custom Gifts, Gift Cards"
+705,Real Estate,Medium,5970.5,43,119.11,4.54,"Physical Gifts, Gift Cards"
+706,Tech,Medium,90851.55,22,81.07,3.87,Gift Cards
+707,Tech,Small,4573.32,39,41.29,4.56,"Experiences, Gift Cards"
+708,Real Estate,Large,7285.41,24,49.73,3.98,"Experiences, Physical Gifts, Custom Gifts"
+709,Finance,Small,137357.51,45,21.22,4.51,Gift Cards
+710,Hospitality,Enterprise,7220.09,22,96.65,4.12,"Custom Gifts, Physical Gifts, Gift Cards"
+711,Retail,Small,10650.4,32,19.32,4.67,"Experiences, Gift Cards, Custom Gifts"
+712,Insurance,Large,12258.67,38,37.9,3.85,"Experiences, Physical Gifts, Custom Gifts"
+713,Manufacturing,Small,52825.72,7,35.14,4.13,"Gift Cards, Experiences"
+714,Hospitality,Medium,5573.45,13,77.05,3.07,"Physical Gifts, Custom Gifts"
+715,Healthcare,Enterprise,41438.77,16,31.53,4.24,"Experiences, Physical Gifts, Custom Gifts"
+716,Healthcare,Medium,67861.9,47,78.47,5.0,"Custom Gifts, Experiences, Gift Cards"
+717,Manufacturing,Enterprise,71113.95,32,82.81,4.27,Custom Gifts
+718,Finance,Small,4062.65,22,46.18,3.72,Gift Cards
+719,Real Estate,Enterprise,283484.51,28,106.41,4.09,Custom Gifts
+720,Manufacturing,Enterprise,615.55,51,37.55,4.16,Experiences
+721,Energy,Large,61421.19,16,57.15,3.76,"Physical Gifts, Gift Cards"
+722,Real Estate,Enterprise,28090.96,12,32.59,3.39,"Experiences, Custom Gifts"
+723,Tech,Medium,61393.22,38,55.88,4.94,Gift Cards
+724,Tech,Small,15299.46,20,101.04,4.57,"Experiences, Custom Gifts"
+725,Energy,Medium,105224.04,3,109.8,3.23,Physical Gifts
+726,Manufacturing,Large,4700.84,33,89.17,4.39,"Custom Gifts, Gift Cards"
+727,Retail,Small,11813.4,27,48.21,5.0,"Gift Cards, Experiences"
+728,Hospitality,Large,28725.92,20,127.94,4.09,"Custom Gifts, Experiences, Gift Cards"
+729,Healthcare,Enterprise,18879.11,15,37.61,4.04,"Gift Cards, Experiences"
+730,Real Estate,Medium,152609.05,23,37.54,3.68,Physical Gifts
+731,Insurance,Medium,19419.36,12,51.04,4.42,"Gift Cards, Physical Gifts"
+732,Manufacturing,Medium,8722.15,2,86.52,4.22,"Experiences, Physical Gifts, Gift Cards"
+733,Insurance,Medium,11905.37,2,43.45,3.75,"Custom Gifts, Physical Gifts"
+734,Healthcare,Large,33117.7,25,19.71,4.87,Gift Cards
+735,Energy,Small,37235.32,9,143.52,4.56,"Physical Gifts, Experiences"
+736,Finance,Small,18420.23,27,39.54,4.17,Physical Gifts
+737,Insurance,Small,66203.64,42,47.37,4.4,Experiences
+738,Hospitality,Small,7468.77,8,32.4,4.56,Physical Gifts
+739,Finance,Medium,4859.14,50,41.01,4.0,Gift Cards
+740,Hospitality,Small,12351.15,31,27.53,4.11,Experiences
+741,Finance,Enterprise,19106.61,19,84.54,3.39,"Custom Gifts, Gift Cards, Experiences"
+742,Education,Small,11647.49,37,55.75,4.69,"Experiences, Gift Cards, Custom Gifts"
+743,Tech,Enterprise,297214.34,30,36.94,4.31,Custom Gifts
+744,Manufacturing,Small,49136.92,44,59.83,4.92,"Experiences, Custom Gifts, Physical Gifts"
+745,Healthcare,Enterprise,41907.04,18,90.0,4.63,"Experiences, Gift Cards"
+746,Insurance,Enterprise,101891.7,41,125.16,4.03,Physical Gifts
+747,Energy,Enterprise,8879.19,12,43.64,3.19,"Experiences, Custom Gifts"
+748,Finance,Enterprise,23337.54,43,146.58,3.79,"Physical Gifts, Gift Cards"
+749,Hospitality,Small,7784.66,33,42.46,5.0,"Gift Cards, Custom Gifts, Experiences"
+750,Education,Large,149741.06,23,28.22,4.13,Experiences
+751,Tech,Medium,5661.88,34,99.17,3.67,Gift Cards
+752,Manufacturing,Medium,36325.61,14,76.91,3.48,"Experiences, Gift Cards, Custom Gifts"
+753,Education,Medium,128677.8,35,38.73,3.34,Gift Cards
+754,Tech,Small,35397.22,43,66.51,4.3,"Gift Cards, Physical Gifts, Experiences"
+755,Education,Small,45018.74,11,103.1,3.69,"Experiences, Custom Gifts"
+756,Finance,Small,38953.91,33,63.41,4.66,"Physical Gifts, Gift Cards, Custom Gifts"
+757,Manufacturing,Large,20241.08,1,30.57,3.4,"Experiences, Custom Gifts, Gift Cards"
+758,Finance,Large,9929.72,33,76.79,4.53,Experiences
+759,Education,Small,66623.22,10,37.97,3.92,Physical Gifts
+760,Retail,Medium,6872.53,22,50.68,4.22,Gift Cards
+761,Education,Enterprise,16193.09,22,40.8,4.41,"Custom Gifts, Physical Gifts"
+762,Finance,Small,27460.61,45,37.89,4.12,"Custom Gifts, Physical Gifts, Experiences"
+763,Tech,Medium,6425.98,47,107.14,4.61,Physical Gifts
+764,Tech,Enterprise,3104.42,28,74.76,4.47,"Physical Gifts, Custom Gifts"
+765,Energy,Enterprise,23038.79,3,49.6,4.34,"Custom Gifts, Experiences"
+766,Hospitality,Small,21594.41,21,133.23,3.89,"Physical Gifts, Gift Cards, Custom Gifts"
+767,Real Estate,Small,15670.79,41,76.15,4.87,Experiences
+768,Healthcare,Large,21334.77,1,18.62,4.37,"Experiences, Custom Gifts, Physical Gifts"
+769,Tech,Small,41545.72,27,100.11,4.4,Physical Gifts
+770,Real Estate,Small,16995.58,45,60.26,4.74,Physical Gifts
+771,Energy,Medium,44211.19,2,149.02,3.75,"Physical Gifts, Experiences"
+772,Finance,Medium,53347.35,16,14.01,4.6,"Gift Cards, Custom Gifts"
+773,Education,Enterprise,81681.2,31,16.22,4.61,"Custom Gifts, Experiences, Physical Gifts"
+774,Real Estate,Medium,118989.93,29,35.77,4.91,"Gift Cards, Physical Gifts"
+775,Real Estate,Enterprise,229193.57,13,62.15,4.0,"Gift Cards, Custom Gifts, Physical Gifts"
+776,Healthcare,Small,28356.92,46,59.01,3.83,"Experiences, Custom Gifts, Gift Cards"
+777,Finance,Large,9444.94,42,37.48,4.61,Custom Gifts
+778,Real Estate,Large,13906.94,37,54.8,4.73,"Experiences, Physical Gifts, Custom Gifts"
+779,Tech,Enterprise,35232.7,37,73.63,4.61,"Physical Gifts, Gift Cards, Experiences"
+780,Education,Small,22967.07,17,85.05,3.87,"Physical Gifts, Custom Gifts"
+781,Education,Enterprise,81911.84,27,57.15,4.27,"Physical Gifts, Gift Cards, Experiences"
+782,Real Estate,Enterprise,32414.53,9,67.84,3.62,"Gift Cards, Custom Gifts"
+783,Retail,Small,39559.46,38,29.75,5.0,Experiences
+784,Finance,Small,11047.97,25,49.5,3.52,"Custom Gifts, Gift Cards, Experiences"
+785,Education,Large,11191.46,30,120.89,4.41,"Custom Gifts, Experiences"
+786,Manufacturing,Small,10285.45,35,30.05,4.54,Physical Gifts
+787,Healthcare,Large,13923.35,46,33.83,4.83,"Experiences, Gift Cards"
+788,Healthcare,Small,5212.79,30,125.45,3.86,Gift Cards
+789,Tech,Small,3149.21,20,98.2,4.1,"Gift Cards, Custom Gifts"
+790,Healthcare,Small,150338.47,2,132.3,4.22,"Physical Gifts, Custom Gifts, Gift Cards"
+791,Healthcare,Enterprise,53600.69,32,88.99,4.94,Gift Cards
+792,Energy,Enterprise,241560.68,22,29.85,3.64,"Physical Gifts, Custom Gifts"
+793,Manufacturing,Medium,18379.42,34,46.94,4.22,"Experiences, Gift Cards, Physical Gifts"
+794,Retail,Small,6530.6,33,114.72,4.69,"Experiences, Physical Gifts, Gift Cards"
+795,Healthcare,Large,12744.19,18,105.11,4.96,Experiences
+796,Hospitality,Medium,30711.26,48,93.24,4.17,"Custom Gifts, Physical Gifts"
+797,Hospitality,Large,7603.85,37,43.02,4.09,"Experiences, Physical Gifts, Gift Cards"
+798,Real Estate,Large,68082.64,21,34.12,5.0,Experiences
+799,Hospitality,Large,106066.33,15,86.75,2.91,Physical Gifts
+800,Education,Enterprise,39608.76,50,120.32,3.88,Experiences
+801,Tech,Enterprise,8297.27,49,66.62,4.44,"Gift Cards, Physical Gifts"
+802,Education,Small,17793.81,12,69.46,3.52,"Physical Gifts, Experiences"
+803,Finance,Medium,8329.87,26,61.79,4.02,"Physical Gifts, Experiences"
+804,Energy,Small,5906.1,20,59.33,3.64,"Gift Cards, Experiences, Physical Gifts"
+805,Manufacturing,Small,37869.8,48,75.42,4.41,"Experiences, Physical Gifts"
+806,Energy,Small,12055.12,10,52.85,4.29,Gift Cards
+807,Energy,Large,66499.14,6,99.46,3.77,"Physical Gifts, Gift Cards, Custom Gifts"
+808,Real Estate,Enterprise,92461.75,9,28.14,3.74,"Experiences, Custom Gifts, Gift Cards"
+809,Insurance,Enterprise,52778.51,27,40.76,3.47,"Experiences, Physical Gifts, Gift Cards"
+810,Education,Large,13768.98,5,31.28,3.56,"Gift Cards, Physical Gifts, Custom Gifts"
+811,Tech,Small,29554.45,39,90.18,4.18,"Experiences, Physical Gifts"
+812,Energy,Large,18698.53,13,23.04,4.14,"Gift Cards, Custom Gifts"
+813,Tech,Small,52915.9,37,70.49,4.93,"Custom Gifts, Gift Cards"
+814,Education,Small,15540.73,44,49.04,3.94,"Experiences, Gift Cards, Physical Gifts"
+815,Real Estate,Medium,46967.81,43,59.57,4.78,"Physical Gifts, Custom Gifts, Experiences"
+816,Energy,Enterprise,39173.83,21,60.85,3.76,Experiences
+817,Healthcare,Enterprise,10373.45,8,70.85,4.0,"Experiences, Physical Gifts"
+818,Tech,Small,18831.82,8,20.31,5.0,"Physical Gifts, Gift Cards"
+819,Manufacturing,Small,30228.24,16,58.04,4.12,Gift Cards
+820,Tech,Large,4578.82,8,88.3,4.57,"Physical Gifts, Custom Gifts, Gift Cards"
+821,Tech,Small,5816.98,10,39.88,4.16,"Gift Cards, Physical Gifts, Custom Gifts"
+822,Insurance,Medium,3952.93,22,93.82,4.49,Experiences
+823,Hospitality,Small,45178.28,35,51.84,3.43,Physical Gifts
+824,Hospitality,Enterprise,42668.21,2,106.61,3.87,"Custom Gifts, Experiences, Physical Gifts"
+825,Insurance,Medium,254549.14,6,26.03,4.95,"Physical Gifts, Custom Gifts, Experiences"
+826,Finance,Medium,2684.2,26,43.34,4.13,"Custom Gifts, Experiences, Gift Cards"
+827,Insurance,Medium,1709.53,34,33.98,4.13,Custom Gifts
+828,Manufacturing,Small,54291.58,42,91.89,4.94,"Custom Gifts, Experiences"
+829,Insurance,Enterprise,51338.25,39,16.51,4.24,"Physical Gifts, Experiences, Custom Gifts"
+830,Finance,Small,14556.87,44,62.46,4.34,"Experiences, Gift Cards"
+831,Manufacturing,Small,55821.52,20,79.81,4.34,"Gift Cards, Physical Gifts, Experiences"
+832,Manufacturing,Medium,17514.24,34,39.21,5.0,"Physical Gifts, Gift Cards"
+833,Tech,Large,7267.16,45,89.69,4.76,Physical Gifts
+834,Education,Medium,15201.07,20,91.08,4.31,"Gift Cards, Experiences, Physical Gifts"
+835,Finance,Enterprise,49927.83,24,56.66,2.47,"Experiences, Gift Cards"
+836,Real Estate,Medium,21147.23,28,42.01,3.74,Experiences
+837,Retail,Medium,180996.4,47,41.24,5.0,Physical Gifts
+838,Real Estate,Large,36280.46,45,29.46,5.0,"Custom Gifts, Gift Cards"
+839,Hospitality,Small,11236.11,8,81.23,3.59,"Gift Cards, Experiences, Custom Gifts"
+840,Tech,Medium,77124.08,30,54.4,4.26,"Physical Gifts, Gift Cards"
+841,Real Estate,Large,12377.83,13,50.92,4.29,"Physical Gifts, Experiences, Gift Cards"
+842,Healthcare,Large,8194.07,46,79.61,5.0,"Gift Cards, Experiences"
+843,Insurance,Enterprise,27369.45,17,67.44,3.65,"Experiences, Custom Gifts"
+844,Finance,Small,69463.76,8,99.16,3.62,"Custom Gifts, Experiences"
+845,Insurance,Enterprise,17882.26,1,27.89,4.09,"Custom Gifts, Gift Cards, Physical Gifts"
+846,Energy,Enterprise,126959.89,16,49.31,4.49,"Physical Gifts, Gift Cards"
+847,Real Estate,Medium,34320.14,3,65.24,3.79,"Gift Cards, Physical Gifts"
+848,Education,Small,83620.26,37,37.36,4.54,"Experiences, Gift Cards"
+849,Healthcare,Small,10233.31,15,46.73,4.66,Physical Gifts
+850,Energy,Large,9926.18,31,43.01,4.12,Custom Gifts
+851,Insurance,Enterprise,41217.36,34,98.12,4.34,Custom Gifts
+852,Finance,Large,12560.62,34,41.62,4.51,"Custom Gifts, Experiences, Physical Gifts"
+853,Hospitality,Large,51348.32,15,66.92,4.21,"Gift Cards, Experiences, Physical Gifts"
+854,Finance,Large,63350.04,15,75.84,3.11,"Gift Cards, Physical Gifts"
+855,Real Estate,Large,72315.75,24,164.2,4.81,"Custom Gifts, Physical Gifts"
+856,Education,Large,52445.32,25,84.68,4.11,Gift Cards
+857,Finance,Small,38035.22,8,38.83,4.15,Custom Gifts
+858,Energy,Small,13819.5,22,100.09,4.3,"Physical Gifts, Experiences, Gift Cards"
+859,Tech,Medium,65774.65,31,172.84,3.75,Physical Gifts
+860,Healthcare,Small,89108.51,6,45.53,3.67,Gift Cards
+861,Energy,Enterprise,127242.42,24,98.74,4.66,"Custom Gifts, Physical Gifts, Experiences"
+862,Education,Medium,6083.25,12,39.16,4.43,Experiences
+863,Tech,Medium,45333.86,39,134.12,4.36,Physical Gifts
+864,Education,Large,15259.08,21,47.02,4.03,Gift Cards
+865,Tech,Large,36321.51,5,31.25,4.71,"Experiences, Gift Cards"
+866,Tech,Large,34392.57,12,39.77,3.17,"Custom Gifts, Experiences"
+867,Manufacturing,Medium,254831.93,16,19.02,3.88,"Experiences, Custom Gifts, Gift Cards"
+868,Hospitality,Large,16990.36,49,66.76,4.9,Experiences
+869,Manufacturing,Small,49346.57,8,100.05,4.34,"Gift Cards, Custom Gifts"
+870,Real Estate,Enterprise,26864.78,21,48.51,3.99,"Gift Cards, Physical Gifts, Custom Gifts"
+871,Real Estate,Medium,72941.55,21,73.97,2.7,Custom Gifts
+872,Finance,Medium,29364.5,18,129.33,3.59,"Experiences, Physical Gifts"
+873,Energy,Enterprise,42491.47,5,58.99,4.09,"Custom Gifts, Gift Cards"
+874,Real Estate,Enterprise,12089.06,30,19.62,4.92,"Gift Cards, Custom Gifts, Experiences"
+875,Energy,Small,42454.66,39,102.34,5.0,"Experiences, Physical Gifts, Custom Gifts"
+876,Hospitality,Large,86413.13,43,48.93,3.98,"Physical Gifts, Custom Gifts"
+877,Finance,Large,31963.63,15,52.95,3.46,"Experiences, Gift Cards, Custom Gifts"
+878,Insurance,Large,12491.74,10,53.35,3.79,Physical Gifts
+879,Finance,Enterprise,4515.37,13,37.67,3.46,Experiences
+880,Tech,Large,117313.62,13,58.08,4.08,"Physical Gifts, Custom Gifts"
+881,Tech,Enterprise,95352.11,34,105.48,5.0,"Experiences, Physical Gifts"
+882,Education,Medium,25470.6,6,89.97,3.8,"Custom Gifts, Experiences"
+883,Energy,Large,8664.06,20,60.58,3.36,Experiences
+884,Hospitality,Enterprise,47581.24,37,39.34,4.17,Physical Gifts
+885,Education,Small,12729.06,18,53.49,4.16,Experiences
+886,Manufacturing,Small,7528.68,17,56.1,4.01,Physical Gifts
+887,Tech,Large,24706.59,29,65.41,5.0,"Gift Cards, Custom Gifts"
+888,Insurance,Small,23978.28,12,97.04,3.59,"Gift Cards, Physical Gifts"
+889,Healthcare,Medium,10331.74,7,33.39,4.29,Custom Gifts
+890,Real Estate,Large,63576.68,22,67.86,3.75,Physical Gifts
+891,Finance,Large,61858.02,26,37.48,5.0,"Experiences, Gift Cards"
+892,Tech,Medium,49059.57,14,34.3,3.14,"Experiences, Physical Gifts"
+893,Real Estate,Large,11077.94,19,31.05,4.62,Experiences
+894,Finance,Small,14979.43,1,60.93,4.46,"Gift Cards, Physical Gifts"
+895,Tech,Medium,9814.49,48,137.06,4.64,"Physical Gifts, Gift Cards"
+896,Tech,Small,9523.46,2,49.32,4.16,Experiences
+897,Tech,Enterprise,13906.98,25,76.16,4.17,Physical Gifts
+898,Retail,Large,31165.44,32,15.74,4.09,Experiences
+899,Finance,Large,36517.13,10,53.76,4.76,"Custom Gifts, Physical Gifts"
+900,Real Estate,Large,62649.47,32,64.96,5.0,"Custom Gifts, Physical Gifts"
+901,Education,Small,8606.17,25,88.56,4.29,"Custom Gifts, Experiences, Gift Cards"
+902,Hospitality,Small,82832.89,2,53.94,4.63,"Physical Gifts, Gift Cards, Custom Gifts"
+903,Tech,Enterprise,40021.78,40,151.8,4.5,"Custom Gifts, Physical Gifts, Gift Cards"
+904,Manufacturing,Small,90581.28,10,51.31,4.29,Custom Gifts
+905,Hospitality,Large,147315.08,13,126.69,4.2,"Experiences, Physical Gifts, Gift Cards"
+906,Finance,Large,45834.18,22,91.55,5.0,"Physical Gifts, Custom Gifts"
+907,Manufacturing,Small,16659.69,4,46.05,3.72,"Physical Gifts, Custom Gifts"
+908,Hospitality,Enterprise,105493.97,40,84.69,4.46,"Gift Cards, Experiences"
+909,Insurance,Small,20446.3,47,91.16,4.7,Gift Cards
+910,Healthcare,Small,16494.7,17,94.08,4.88,"Custom Gifts, Experiences, Gift Cards"
+911,Finance,Large,22735.41,49,76.97,4.11,Gift Cards
+912,Retail,Large,47974.62,51,39.16,3.84,"Gift Cards, Custom Gifts, Physical Gifts"
+913,Insurance,Large,39063.71,49,46.3,3.6,"Physical Gifts, Custom Gifts"
+914,Finance,Medium,42300.59,21,60.2,4.23,Physical Gifts
+915,Tech,Enterprise,7702.74,21,39.14,3.68,"Physical Gifts, Experiences, Gift Cards"
+916,Finance,Medium,2670.55,4,61.71,3.26,"Gift Cards, Physical Gifts, Custom Gifts"
+917,Real Estate,Large,55298.32,1,141.85,2.72,"Physical Gifts, Custom Gifts, Gift Cards"
+918,Education,Large,73437.01,20,10.89,3.55,"Custom Gifts, Experiences, Physical Gifts"
+919,Insurance,Small,28766.94,51,62.16,4.71,"Gift Cards, Custom Gifts, Physical Gifts"
+920,Retail,Large,81132.11,43,69.49,4.06,Gift Cards
+921,Healthcare,Enterprise,9198.91,29,28.28,5.0,"Gift Cards, Custom Gifts, Experiences"
+922,Energy,Enterprise,74041.72,29,93.22,4.79,"Physical Gifts, Gift Cards, Experiences"
+923,Insurance,Large,4500.32,42,37.25,5.0,"Physical Gifts, Gift Cards, Custom Gifts"
+924,Manufacturing,Small,13377.88,10,97.64,4.75,"Physical Gifts, Gift Cards"
+925,Insurance,Large,6216.62,45,57.92,4.37,Custom Gifts
+926,Healthcare,Medium,25283.65,45,34.9,4.73,"Custom Gifts, Experiences, Gift Cards"
+927,Real Estate,Enterprise,28299.63,34,52.28,4.52,Custom Gifts
+928,Healthcare,Enterprise,25251.48,34,55.69,4.41,"Custom Gifts, Experiences"
+929,Retail,Enterprise,24083.31,37,89.06,4.87,Experiences
+930,Manufacturing,Small,8180.84,22,45.07,3.29,"Experiences, Custom Gifts, Physical Gifts"
+931,Education,Small,23531.33,31,132.43,4.66,"Gift Cards, Custom Gifts, Physical Gifts"
+932,Energy,Enterprise,20672.14,30,120.83,4.02,"Gift Cards, Custom Gifts, Physical Gifts"
+933,Manufacturing,Enterprise,1238332.22,11,20.55,3.75,"Gift Cards, Custom Gifts"
+934,Manufacturing,Large,9946.51,43,59.7,5.0,"Experiences, Custom Gifts"
+935,Education,Enterprise,11751.62,15,56.39,2.88,Physical Gifts
+936,Finance,Small,46993.57,32,71.79,3.95,"Custom Gifts, Gift Cards, Experiences"
+937,Tech,Medium,19332.15,33,46.97,4.58,"Gift Cards, Experiences"
+938,Real Estate,Large,35622.01,21,34.03,4.12,"Experiences, Custom Gifts"
+939,Finance,Large,54041.84,29,97.18,5.0,"Physical Gifts, Experiences, Custom Gifts"
+940,Retail,Large,8776.77,43,49.06,4.41,Experiences
+941,Retail,Enterprise,21109.28,47,148.77,4.24,"Gift Cards, Custom Gifts, Experiences"
+942,Education,Small,4698.76,34,39.01,4.56,"Experiences, Gift Cards, Physical Gifts"
+943,Retail,Small,26017.19,41,68.21,4.0,Experiences
+944,Insurance,Medium,62570.92,38,59.83,3.91,"Experiences, Custom Gifts"
+945,Finance,Enterprise,166553.48,2,66.17,4.23,"Experiences, Custom Gifts, Gift Cards"
+946,Finance,Enterprise,8815.63,45,54.73,3.97,"Gift Cards, Experiences"
+947,Real Estate,Medium,14917.02,1,58.39,4.59,Gift Cards
+948,Tech,Large,10666.76,4,111.84,4.0,"Experiences, Gift Cards, Custom Gifts"
+949,Insurance,Medium,20809.24,50,40.06,4.65,"Experiences, Physical Gifts"
+950,Retail,Large,12789.33,37,38.45,4.66,"Custom Gifts, Experiences, Gift Cards"
+951,Retail,Large,1856.36,27,68.15,4.09,"Custom Gifts, Physical Gifts, Experiences"
+952,Finance,Medium,9798.63,34,38.68,4.58,"Gift Cards, Physical Gifts"
+953,Finance,Medium,92947.88,39,83.72,5.0,Experiences
+954,Retail,Enterprise,22713.05,25,69.49,3.98,Experiences
+955,Tech,Enterprise,149664.28,20,145.81,4.33,"Experiences, Physical Gifts, Custom Gifts"
+956,Energy,Medium,22213.88,6,36.63,4.4,"Experiences, Custom Gifts, Physical Gifts"
+957,Tech,Enterprise,35363.74,2,61.97,3.97,Physical Gifts
+958,Healthcare,Enterprise,150939.91,10,81.3,3.57,Custom Gifts
+959,Energy,Large,28607.68,36,45.49,4.37,"Physical Gifts, Custom Gifts, Gift Cards"
+960,Retail,Small,24421.1,41,43.72,4.59,"Custom Gifts, Experiences"
+961,Education,Large,32828.84,15,77.31,3.83,"Physical Gifts, Custom Gifts"
+962,Insurance,Enterprise,63897.52,10,50.37,3.78,"Custom Gifts, Experiences"
+963,Retail,Small,10143.53,6,56.86,4.02,"Gift Cards, Experiences, Physical Gifts"
+964,Insurance,Enterprise,33422.46,37,22.13,4.45,"Gift Cards, Custom Gifts, Experiences"
+965,Manufacturing,Large,6171.23,36,75.2,4.54,"Gift Cards, Experiences"
+966,Energy,Enterprise,61944.93,6,25.91,3.75,"Gift Cards, Physical Gifts, Custom Gifts"
+967,Energy,Medium,11374.85,36,31.07,4.37,"Gift Cards, Experiences, Custom Gifts"
+968,Insurance,Large,36940.24,43,100.66,4.92,"Gift Cards, Physical Gifts, Custom Gifts"
+969,Finance,Medium,27815.9,40,21.85,5.0,Experiences
+970,Insurance,Medium,19922.08,27,82.34,5.0,Gift Cards
+971,Real Estate,Enterprise,15861.4,22,93.67,2.76,"Physical Gifts, Gift Cards, Custom Gifts"
+972,Manufacturing,Enterprise,32638.83,14,73.68,4.05,Experiences
+973,Real Estate,Large,27001.7,45,64.68,4.44,"Gift Cards, Physical Gifts, Experiences"
+974,Manufacturing,Small,57548.06,45,86.0,4.95,"Experiences, Gift Cards, Physical Gifts"
+975,Retail,Small,24517.15,4,77.83,3.86,Gift Cards
+976,Education,Small,5352.05,7,23.29,4.45,"Gift Cards, Custom Gifts"
+977,Finance,Small,2723.92,22,57.38,2.82,"Experiences, Gift Cards, Custom Gifts"
+978,Hospitality,Medium,83621.55,16,53.63,4.9,"Physical Gifts, Experiences, Custom Gifts"
+979,Healthcare,Medium,11054.18,41,51.57,5.0,"Experiences, Custom Gifts"
+980,Real Estate,Medium,21300.88,43,33.55,5.0,Gift Cards
+981,Insurance,Small,26459.83,5,24.07,3.94,"Experiences, Gift Cards, Custom Gifts"
+982,Finance,Large,14113.45,41,75.53,4.13,"Experiences, Custom Gifts"
+983,Finance,Enterprise,61082.93,14,59.42,4.32,"Experiences, Physical Gifts, Gift Cards"
+984,Energy,Enterprise,63055.38,27,33.27,4.29,"Gift Cards, Physical Gifts"
+985,Insurance,Medium,33523.95,41,64.1,4.5,Gift Cards
+986,Tech,Small,128349.9,19,53.13,4.97,Custom Gifts
+987,Manufacturing,Enterprise,184213.6,46,40.59,4.9,Gift Cards
+988,Energy,Large,47674.74,5,43.33,4.95,"Experiences, Gift Cards, Physical Gifts"
+989,Hospitality,Medium,48116.62,22,60.19,3.71,"Gift Cards, Custom Gifts"
+990,Healthcare,Enterprise,10920.36,37,52.24,4.6,Experiences
+991,Manufacturing,Medium,32635.09,37,82.85,4.39,"Gift Cards, Physical Gifts"
+992,Insurance,Small,16378.98,5,32.21,3.72,"Experiences, Custom Gifts"
+993,Healthcare,Small,13333.58,24,62.39,3.87,"Experiences, Custom Gifts"
+994,Insurance,Medium,16428.83,15,36.78,4.19,"Custom Gifts, Experiences, Physical Gifts"
+995,Hospitality,Small,4284.17,15,44.42,4.46,"Custom Gifts, Gift Cards"
+996,Healthcare,Small,21824.87,9,45.37,3.82,Custom Gifts
+997,Manufacturing,Medium,11230.35,50,69.87,4.89,"Physical Gifts, Experiences"
+998,Finance,Large,3776.97,10,57.41,3.49,Custom Gifts
+999,Healthcare,Medium,35548.43,15,58.96,4.71,"Custom Gifts, Experiences, Gift Cards"
+1000,Finance,Small,4578.38,14,27.57,4.37,Custom Gifts

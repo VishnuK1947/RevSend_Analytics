@@ -7,22 +7,16 @@ def generate_synthetic_data(num_records=1000):
     industries = ['Tech', 'Finance', 'Healthcare', 'Manufacturing', 'Retail', 'Education', 'Insurance', 'Real Estate', 'Energy', 'Hospitality']
     company_sizes = ['Small', 'Medium', 'Large', 'Enterprise']
     gift_types = ['Gift Cards', 'Physical Gifts', 'Experiences', 'Custom Gifts']
-    gift_subtypes = {
-        'Gift Cards': ['Amazon', 'Visa', 'Restaurant', 'Travel'],
-        'Physical Gifts': ['Tech Gadgets', 'Gourmet Treats', 'Office Supplies', 'Wellness Products'],
-        'Experiences': ['Event Tickets', 'Spa Days', 'Cooking Classes', 'Adventure Activities'],
-        'Custom Gifts': ['Branded Merchandise', 'Personalized Items', 'Luxury Goods', 'Artisanal Crafts']
-    }
 
     # Generate synthetic data
     data = {
         'customer_id': range(1, num_records + 1),
         'industry': np.random.choice(industries, num_records),
         'company_size': np.random.choice(company_sizes, num_records),
-        'total_spend': np.random.uniform(1000, 100000, num_records),
+        'total_spend': np.random.lognormal(mean=10, sigma=1, size=num_records),  # More realistic spending distribution
         'gift_frequency': np.random.randint(1, 52, num_records),  # Assuming weekly frequency at most
-        'average_gift_value': np.random.uniform(50, 1000, num_records),
-        'customer_satisfaction': np.random.uniform(1, 5, num_records)
+        'average_gift_value': np.random.lognormal(mean=4, sigma=0.5, size=num_records),  # More realistic gift value distribution
+        'customer_satisfaction': np.random.normal(loc=4, scale=0.5, size=num_records).clip(1, 5)  # Normal distribution centered around 4
     }
 
     # Generate preferred gift types
@@ -42,6 +36,11 @@ def generate_synthetic_data(num_records=1000):
     df.loc[df['industry'] == 'Tech', 'average_gift_value'] *= 1.2
     df.loc[df['gift_frequency'] > 26, 'customer_satisfaction'] += 0.5
     df['customer_satisfaction'] = df['customer_satisfaction'].clip(1, 5)
+
+    # Round numerical values for better readability
+    df['total_spend'] = df['total_spend'].round(2)
+    df['average_gift_value'] = df['average_gift_value'].round(2)
+    df['customer_satisfaction'] = df['customer_satisfaction'].round(2)
 
     # Save to CSV
     df.to_csv('revsend_synthetic_data.csv', index=False)
